@@ -1,7 +1,7 @@
 # StudyPlan
 
 # Math
-## Linear Algebra
+## Linear Algebra, Calculus and PCA
 https://www.coursera.org/specializations/mathematics-machine-learning
 ## Statistics and probabilities
 https://www.coursera.org/specializations/statistics
