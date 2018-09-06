@@ -1,4 +1,4 @@
-Math and Statistics references (Optional, on need)
+## Math and Statistics references (Optional, on need)
 =====================================
 
 Keep the following two books in your library as a reference for Linear Algebra and statistics, so you can search and learn from them the missing topics you need
@@ -11,7 +11,7 @@ http://greenteapress.com/thinkstats/
 
 ========================================================================
 
-Machine Learning
+## Machine Learning
 =====================================
 3- Stanford Machine Learning course (The basics and concepts)
 -- Andrew NG - Stanford professor and google brain creator
@@ -22,7 +22,7 @@ https://www.coursera.org/specializations/data-science-python
 
 ========================================================================
 
-Deep Learning
+## Deep Learning
 =====================================
 4- Deep learning basics and concepts, Andrew NG - Stanford professor and google brain creator
 https://www.coursera.org/specializations/deep-learning
@@ -32,7 +32,7 @@ http://fast.ai/
 
 ========================================================================
 
-Computer Vision 
+## Computer Vision 
 (image processing, applied with deep learning, OCR, face detection projects)
 =====================================
 Mastering openCV and deep learning for computer vision
