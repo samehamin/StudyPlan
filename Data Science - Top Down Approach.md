@@ -22,3 +22,6 @@ https://www.coursera.org/learn/machine-learning
 
 - Deep Learning by Andrew NG
 https://www.coursera.org/specializations/deep-learning
+
+- Books and Readings
+To be prepared
