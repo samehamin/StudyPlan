@@ -2,9 +2,6 @@
 - Machine Learning A-Z
 https://www.udemy.com/machinelearning/
 
-- Machine Learning for Hackers
-http://nbviewer.jupyter.org/github/carljv/Will_it_Python/tree/master/MLFH/
-
 
 ### Deep Learning Introduction with Practice
 - Deep Learning A-Z
