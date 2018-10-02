@@ -7,21 +7,21 @@ https://www.udemy.com/machinelearning/
 <b>- Deep Learning A-Z</b><br>
 https://www.udemy.com/machinelearning/
 
-- Hacker's guide to Neural Networks
+- Hacker's guide to Neural Networks<br>
 http://karpathy.github.io/neuralnets/
 
 
 ### Practical Data Science (Full Data Science project implementation)
-- Applied Data Science with Python
+- Applied Data Science with Python<br>
 https://www.coursera.org/specializations/data-science-python
 
 
 ### Dive into theory and details
-- Machine Learning by Andrew NG
+- Machine Learning by Andrew NG<br>
 https://www.coursera.org/learn/machine-learning
 
-- Deep Learning by Andrew NG
+- Deep Learning by Andrew NG<br>
 https://www.coursera.org/specializations/deep-learning
 
-- Books and Readings
+- Books and Readings<br>
 To be prepared
