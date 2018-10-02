@@ -1,13 +1,25 @@
 ### Introduction to Machine Learning
-1- Machine Learning A-Z
+- Machine Learning A-Z
 https://www.udemy.com/machinelearning/
 
-2- Deep Learning A-Z
+- Machine Learning for Hackers
+http://nbviewer.jupyter.org/github/carljv/Will_it_Python/tree/master/MLFH/
+
+- Deep Learning A-Z
 https://www.udemy.com/machinelearning/
+
+- Hacker's guide to Neural Networks
+http://karpathy.github.io/neuralnets/
+
 
 ### Practical Data Science (Full Data Science project implementation)
-3- Applied Data Science with Python
+- Applied Data Science with Python
 https://www.coursera.org/specializations/data-science-python
 
-### Dive into Theory
-To Be Delivered. In-Progress.
+
+### Dive into theory and details
+- Machine Learning by Andrew NG
+https://www.coursera.org/learn/machine-learning
+
+- Deep Learning by Andrew NG
+https://www.coursera.org/specializations/deep-learning
