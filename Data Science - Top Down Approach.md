@@ -1,10 +1,10 @@
 ### Machine Learning Introduction with Practice
-<b>- Machine Learning A-Z </b><br>
+- <b>Machine Learning A-Z </b><br>
 https://www.udemy.com/machinelearning/
 
 
 ### Deep Learning Introduction with Practice
-<b>- Deep Learning A-Z</b><br>
+- <b>Deep Learning A-Z</b><br>
 https://www.udemy.com/machinelearning/
 
 - Hacker's guide to Neural Networks<br>
