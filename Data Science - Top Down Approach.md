@@ -1,10 +1,10 @@
 ### Machine Learning Introduction with Practice
-- <s><b>Machine Learning A-Z</b><s/><br>
+- <s><b>Machine Learning A-Z</b></s><br>
 https://www.udemy.com/machinelearning/
 
 
 ### Deep Learning Introduction with Practice
-- <s><b>Deep Learning A-Z - Done</b><s/><br>
+- <s><b>Deep Learning A-Z</b></s><br>
 https://www.udemy.com/machinelearning/
 
 
