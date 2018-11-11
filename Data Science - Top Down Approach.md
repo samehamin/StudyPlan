@@ -22,5 +22,9 @@ https://www.coursera.org/learn/machine-learning
 http://karpathy.github.io/neuralnets/
 https://www.coursera.org/specializations/deep-learning
 
-- Books and Readings<br>
-To be prepared
+### Books and Readings<br>
+- Linear Algebra<br>
+https://www.amazon.com/gp/product/0536667470/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0536667470&linkCode=as2&tag=theopesoudats-20&linkId=YLLIM4C4LJSOZIQR
+
+- Statistics and Probabilities<br>
+http://greenteapress.com/thinkstats/
