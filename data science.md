@@ -1,8 +1,7 @@
 # StudyPlan
 
 # Data Science Core
-## Data Science Micromaster on edx
-(Statistics, probabilities, python, machine learning, big data analytics)
+## Data Science Micromaster on edx (Statistics, probabilities, python, machine learning, big data analytics)
 https://www.edx.org/micromasters/data-science
 
 ## Data Wrangling with MongoDB
