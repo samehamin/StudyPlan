@@ -1,27 +1,27 @@
 # StudyPlan
 
-# Math
-## Linear Algebra, Calculus and PCA
-https://www.coursera.org/specializations/mathematics-machine-learning
-## Statistics and probabilities
-https://www.coursera.org/specializations/statistics
+# Data Science Core
+## Data Science Micromaster on edx
+(Statistics, probabilities, python, machine learning, big data analytics)
+https://www.edx.org/micromasters/data-science
+
+## Data Wrangling with MongoDB
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
+
+## Data Visualization and D3.js
+https://www.udacity.com/course/data-visualization-and-d3js--ud507
+
+## A/B Testing
+https://www.udacity.com/course/ab-testing--ud257
 
 
 # Machine Learning
-## Theory and concepts (Very important!) - Stanford
+## Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
-## Practice
-https://www.coursera.org/specializations/data-science-python
 
-
-# Deep Learning
-## Theory and Practice 
+## Deep Learning Specialization
 https://www.coursera.org/specializations/deep-learning
-## Deep Practice (Very important!)
-http://fast.ai/
 
-# Big Data
-## Introduction and Practice
-https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/content
-## Machine Learning at scale
-https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/course/
+## Creative Applications of Deep Learning with TensorFlow
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
+
