@@ -7,9 +7,6 @@ https://www.edx.org/micromasters/data-science
 ## Data Wrangling with MongoDB
 https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 
-## Data Visualization and D3.js
-https://www.udacity.com/course/data-visualization-and-d3js--ud507
-
 ## A/B Testing
 https://www.udacity.com/course/ab-testing--ud257
 
