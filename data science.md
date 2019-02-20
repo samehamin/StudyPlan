@@ -15,6 +15,9 @@ https://www.udacity.com/course/ab-testing--ud257
 ## Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
 
+## Applied Machine Learning - Practice
+https://www.coursera.org/specializations/data-science-python
+
 ## Deep Learning Specialization
 https://www.coursera.org/specializations/deep-learning
 
