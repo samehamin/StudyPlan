@@ -47,6 +47,9 @@ https://aischool.microsoft.com/en-us/home
 ### Amazon - Machine learning on AWS
 https://aws.amazon.com/training/learning-paths/machine-learning/
 
+### Self-Driving Cars
+https://www.coursera.org/specializations/self-driving-cars
+
 ==============================================================================
 
 # Books
