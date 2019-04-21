@@ -13,21 +13,28 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 ### Inferenial Statistics</br>
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201
 
+==============================================================================
 
 # Data Science Core
 ### Data Science Micromaster on edx (Statistics, probabilities, python, machine learning, big data analytics)
 https://www.edx.org/micromasters/data-science
 
+==============================================================================
 
 # Machine Learning Theory (Optional)
 ### Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
 
+==============================================================================
+
+# Deep Learning
 ### Deep Learning Specialization - by Andrew NG
 https://www.coursera.org/specializations/deep-learning
 
 ### Advanced Machine Learning Specialization
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
+
+==============================================================================
 
 # Industry oriented applications
 ### Google tech - Machine learning on Google cloud
@@ -39,6 +46,7 @@ https://aischool.microsoft.com/en-us/home
 ### Amazon - Machine learning on AWS
 https://aws.amazon.com/training/learning-paths/machine-learning/
 
+==============================================================================
 
 # Books
 - thinkstats	
