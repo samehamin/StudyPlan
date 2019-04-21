@@ -41,6 +41,7 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
 ### Microsoft tech - Machine learning on Azure
+https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 https://aischool.microsoft.com/en-us/home
 
 ### Amazon - Machine learning on AWS
