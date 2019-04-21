@@ -1,5 +1,13 @@
 # StudyPlan
 
+# Math (Optional)
+- Linear Algebra Refresher
+https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+
+- Calculus
+https://www.udacity.com/course/differential-equations-in-action--cs222
+
+
 # Data Science Core
 ## Data Science Micromaster on edx (Statistics, probabilities, python, machine learning, big data analytics)
 https://www.edx.org/micromasters/data-science
