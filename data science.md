@@ -1,11 +1,15 @@
 # StudyPlan
 
 # Math (Optional)
-- Linear Algebra Refresher
+- Linear Algebra Refresher </br>
 https://www.udacity.com/course/linear-algebra-refresher-course--ud953
-
-- Calculus
+- Calculus</br>
 https://www.udacity.com/course/differential-equations-in-action--cs222
+- Descriptive Statistics</br>
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+- Inferenial Statistics</br>
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+
 
 
 # Data Science Core
