@@ -34,6 +34,9 @@ https://www.coursera.org/specializations/deep-learning
 ### Advanced Machine Learning Specialization
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 
+### Deep learning with tensorflow 2
+https://www.deeplearning.ai/tensorflow-from-basics-to-mastery/
+
 ==============================================================================
 
 # Industry oriented applications
