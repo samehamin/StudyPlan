@@ -53,6 +53,9 @@ https://aws.amazon.com/training/learning-paths/machine-learning/
 ### Self-Driving Cars
 https://www.coursera.org/specializations/self-driving-cars
 
+### Recommender Systems
+https://www.coursera.org/specializations/recommender-systems
+
 ==============================================================================
 
 # Books
