@@ -21,9 +21,16 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 
 ==============================================================================
 
-# Data Science Core
-### Data Science Micromaster on edx (Statistics, probabilities, python, machine learning, big data analytics)
+# Data Science Core (Select one of the following Specializations)
+
+### Data Science Micromaster by UC San Diego
 https://www.edx.org/micromasters/data-science
+
+### Data Science Specialization by Johns Hopkins
+https://www.coursera.org/specializations/jhu-data-science
+
+### Statistics and Data Science by MIT
+https://www.edx.org/micromasters/mitx-statistics-and-data-science
 
 ==============================================================================
 
