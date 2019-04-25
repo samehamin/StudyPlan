@@ -1,4 +1,4 @@
-# StudyPlan
+# Study Plan
 
 # Math (Optional)
 ### Linear Algebra Refresher
