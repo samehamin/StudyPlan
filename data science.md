@@ -1,6 +1,6 @@
 # Study Plan
 
-# Optiona Courses (Math and others)
+# Optional Courses (Math and others)
 ### Linear Algebra Refresher
 https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
