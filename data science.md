@@ -67,3 +67,4 @@ https://www.coursera.org/specializations/recommender-systems
 - AI-Transformation-Playbook	- Andrew NG
 - ARTIFICIAL INTELLIGENCE WITH PYTHON	
 - Hadoop the Definitive Guide	
+- Mining the Social Web, 3rd Edition
