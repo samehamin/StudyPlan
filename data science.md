@@ -1,6 +1,6 @@
 # Study Plan
 
-# Math (Optional)
+# Optiona Courses (Math and others)
 ### Linear Algebra Refresher
 https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
@@ -12,6 +12,12 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 
 ### Inferenial Statistics</br>
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+
+### A/B Testing byGoogle
+https://www.udacity.com/course/ab-testing--ud257
+
+### Data Wrangling with MongoDB byMongoDB
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 
 ==============================================================================
 
