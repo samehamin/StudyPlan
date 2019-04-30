@@ -35,7 +35,7 @@ https://www.edx.org/micromasters/mitx-statistics-and-data-science
 ==============================================================================
 
 # Machine Learning Theory (Optional)
-### <p color="green"> (In progress) - Machine Learning Stanford Course - by Andrew NG </p>
+### >> In progress >> Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
 
 ==============================================================================
