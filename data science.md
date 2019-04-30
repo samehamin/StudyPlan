@@ -35,7 +35,7 @@ https://www.edx.org/micromasters/mitx-statistics-and-data-science
 ==============================================================================
 
 # Machine Learning Theory (Optional)
-### Machine Learning Stanford Course - by Andrew NG
+### >> In progress >> Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
 
 ==============================================================================
@@ -47,7 +47,7 @@ https://www.coursera.org/specializations/deep-learning
 ### Advanced Machine Learning Specialization
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 
-### Creative Applications of Deep Learning with TensorFlow
+### >> In progress >> Creative Applications of Deep Learning with TensorFlow
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral
 
 ### Deep learning with tensorflow 2
