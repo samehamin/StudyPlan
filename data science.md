@@ -40,12 +40,15 @@ https://www.coursera.org/learn/machine-learning
 
 ==============================================================================
 
-# Deep Learning
+# Deep Learning (Select one of the following)
 ### Deep Learning Specialization - by Andrew NG
 https://www.coursera.org/specializations/deep-learning
 
 ### Advanced Machine Learning Specialization
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
+
+### Creative Applications of Deep Learning with TensorFlow
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral
 
 ### Deep learning with tensorflow 2
 https://www.deeplearning.ai/tensorflow-from-basics-to-mastery/
