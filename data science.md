@@ -32,6 +32,9 @@ https://www.coursera.org/specializations/jhu-data-science
 ### Statistics and Data Science by MIT
 https://www.edx.org/micromasters/mitx-statistics-and-data-science
 
+### Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python?
+
 ==============================================================================
 
 # Machine Learning Theory (Optional)
