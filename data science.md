@@ -45,7 +45,7 @@ https://www.coursera.org/learn/machine-learning
 https://www.coursera.org/specializations/deep-learning
 
 ### Advanced Machine Learning Specialization
-https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
+https://www.coursera.org/specializations/aml?
 
 ### >> In progress >> Creative Applications of Deep Learning with TensorFlow
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral
