@@ -37,7 +37,7 @@ https://www.coursera.org/specializations/data-science-python?
 
 ==============================================================================
 
-# Machine Learning Theory (Optional)
+# Machine Learning Theory (Optional But VERY RECOMMENDED)
 ### >> In progress >> Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
 
