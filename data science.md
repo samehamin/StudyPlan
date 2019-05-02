@@ -38,7 +38,7 @@ https://www.coursera.org/specializations/data-science-python?
 ==============================================================================
 
 # Machine Learning Theory (Optional But VERY RECOMMENDED)
-### >> In progress >> Machine Learning Stanford Course - by Andrew NG
+### Machine Learning Stanford Course - by Andrew NG
 https://www.coursera.org/learn/machine-learning
 
 ==============================================================================
@@ -47,7 +47,7 @@ https://www.coursera.org/learn/machine-learning
 ### Deep Learning Specialization - by Andrew NG
 https://www.coursera.org/specializations/deep-learning
 
-### >> In progress >> Advanced Machine Learning Specialization
+### Advanced Machine Learning Specialization
 https://www.coursera.org/specializations/aml?
 
 ### Creative Applications of Deep Learning with TensorFlow
