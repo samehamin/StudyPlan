@@ -26,7 +26,7 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 ### Data Science Micromaster by UC San Diego
 https://www.edx.org/micromasters/data-science
 
-### ### >> In progress >> Data Science Specialization by Johns Hopkins
+### Data Science Specialization by Johns Hopkins
 https://www.coursera.org/specializations/jhu-data-science
 
 ### Statistics and Data Science by MIT
