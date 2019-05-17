@@ -13,12 +13,6 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 ### Inferenial Statistics</br>
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201
 
-### A/B Testing byGoogle
-https://www.udacity.com/course/ab-testing--ud257
-
-### Data Wrangling with MongoDB byMongoDB
-https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
-
 ==============================================================================
 
 # Data Science Core (Select one of the following Specializations)
@@ -26,14 +20,14 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 ### Data Science Micromaster by UC San Diego
 https://www.edx.org/micromasters/data-science
 
-### Data Science Specialization by Johns Hopkins
-https://www.coursera.org/specializations/jhu-data-science
-
 ### Statistics and Data Science by MIT
 https://www.edx.org/micromasters/mitx-statistics-and-data-science
 
-### Applied Data Science with Python Specialization
-https://www.coursera.org/specializations/data-science-python?
+### Advanced Data Science with IBM Specialization
+https://www.coursera.org/specializations/advanced-data-science-ibm?
+
+### Machine Learning Specialization
+https://www.coursera.org/specializations/machine-learning
 
 ==============================================================================
 
