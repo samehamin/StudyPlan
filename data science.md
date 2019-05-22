@@ -71,6 +71,11 @@ https://www.coursera.org/specializations/recommender-systems
 
 ==============================================================================
 
+# Big data Track (can work on it in parallel with Data science track)
+https://www.coursera.org/specializations/big-data
+
+==============================================================================
+
 # Books
 - thinkstats	
 - thinkbayes	
