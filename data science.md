@@ -15,7 +15,8 @@ https://www.udacity.com/course/intro-to-inferential-statistics--ud201
 
 ==============================================================================
 
-# Data Science Core (Select one of the following Specializations)
+# Data Science Core (Select one of the following Specializations) 
+## (supposed to include theory with practical)
 
 ### Data Science Micromaster by UC San Diego
 https://www.edx.org/micromasters/data-science
@@ -23,11 +24,11 @@ https://www.edx.org/micromasters/data-science
 ### Statistics and Data Science by MIT
 https://www.edx.org/micromasters/mitx-statistics-and-data-science
 
-### Advanced Data Science with IBM Specialization
-https://www.coursera.org/specializations/advanced-data-science-ibm?
-
 ### Machine Learning Specialization
 https://www.coursera.org/specializations/machine-learning
+
+### Data Science Specialization (All in R)
+https://www.coursera.org/specializations/jhu-data-science
 
 ==============================================================================
 
@@ -55,6 +56,9 @@ https://www.deeplearning.ai/tensorflow-from-basics-to-mastery/
 # Industry oriented applications
 ### Google tech - Machine learning on Google cloud
 https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
+
+### IBM - Advanced Data Science with IBM Specialization
+https://www.coursera.org/specializations/advanced-data-science-ibm?
 
 ### Microsoft tech - Machine learning on Azure
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
