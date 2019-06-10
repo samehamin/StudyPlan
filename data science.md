@@ -2,7 +2,7 @@
 
 # Math
 
-## Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA)
+## Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA) -- in progress
 https://www.coursera.org/specializations/mathematics-machine-learning
 
 ==============================================================================
