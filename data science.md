@@ -1,6 +1,7 @@
 # Study Plan
 
-# Optional Courses (Math and others)
+# Math, Probabilities and Statistics
+
 ### Linear Algebra Refresher
 https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
@@ -16,67 +17,51 @@ https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0
 
 ==============================================================================
 
-# Data Science Core (Select one of the following Specializations) 
-## (supposed to include theory with practical)
+# Introduction to Data Science
 
-### Data Science Micromaster by UC San Diego
-https://www.edx.org/micromasters/data-science
+## Data Science A-Z™: Real-Life Data Science Exercises Included
+https://www.udemy.com/datascience/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-GyNz00w15GcrI1ds0.ic_A&LSNPUBID=SAyYsTvLiGQ
 
-### Statistics and Data Science by MIT
-https://www.edx.org/micromasters/mitx-statistics-and-data-science
-
-### Machine Learning Specialization
-https://www.coursera.org/specializations/machine-learning
-
-### Data Science Specialization (All in R)
-https://www.coursera.org/specializations/jhu-data-science
+## Intro to Data Analysis
+https://www.udacity.com/course/intro-to-data-analysis--ud170
 
 ==============================================================================
 
-# Machine Learning Theory (Optional But VERY RECOMMENDED)
-### Machine Learning Stanford Course - by Andrew NG
-https://www.coursera.org/learn/machine-learning
+# Data Visualization
+
+## Data Visualization with Tableau Specialization
+https://www.coursera.org/specializations/data-visualization?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-GRcJXngJNCfNFTv57sdc2Q&siteID=SAyYsTvLiGQ-GRcJXngJNCfNFTv57sdc2Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ
 
 ==============================================================================
 
-# Deep Learning (Select one of the following)
-### Deep Learning Specialization - by Andrew NG
-https://www.coursera.org/specializations/deep-learning
+# Machine Learning (Choose one of the following)
 
-### Advanced Machine Learning Specialization
-https://www.coursera.org/specializations/aml?
+## Machine Learning by Columbia University
+https://www.edx.org/course/machine-learning?source=aw&awc=6798_1560168406_14480360a15edf43e4072ce8a3531248&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F
+
+## Machine Learning by Stanford
+https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-ag7UqDOaltPtQO1XaqoCdQ&siteID=SAyYsTvLiGQ-ag7UqDOaltPtQO1XaqoCdQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ
+
+==============================================================================
+
+# Deep Learning
 
 ### Creative Applications of Deep Learning with TensorFlow
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral
+
+### Advanced Machine Learning Specialization
+https://www.coursera.org/specializations/aml?
 
 ### Deep learning with tensorflow 2
 https://www.deeplearning.ai/tensorflow-from-basics-to-mastery/
 
 ==============================================================================
 
-# Industry oriented applications
-### Google tech - Machine learning on Google cloud
-https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
+# Big Data
+## The Ultimate Hands-On Hadoop - Tame your Big Data!
+https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-1TNFSwQhli4asl97K_e9SQ&LSNPUBID=SAyYsTvLiGQ
 
-### IBM - Advanced Data Science with IBM Specialization
-https://www.coursera.org/specializations/advanced-data-science-ibm?
-
-### Microsoft tech - Machine learning on Azure
-https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
-https://aischool.microsoft.com/en-us/home
-
-### Amazon - Machine learning on AWS
-https://aws.amazon.com/training/learning-paths/machine-learning/
-
-### Self-Driving Cars
-https://www.coursera.org/specializations/self-driving-cars
-
-### Recommender Systems
-https://www.coursera.org/specializations/recommender-systems
-
-==============================================================================
-
-# Big data Track (can work on it in parallel with Data science track)
+## Big Data Specialization
 https://www.coursera.org/specializations/big-data
 
 ==============================================================================
