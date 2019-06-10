@@ -7,11 +7,12 @@ https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 ### Calculus</br>
 https://www.udacity.com/course/differential-equations-in-action--cs222
 
-### Descriptive Statistics</br>
-https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+### Statistics and Probabilities
+Foundations of Data Analysis - Part 1: Statistics Using R </br>
+https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0?source=aw&awc=6798_1560166963_8849f01b0128d14f65382afd9e2d7874
 
-### Inferenial Statistics</br>
-https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+Foundations of Data Analysis - Part 2: Inferential Statistics </br>
+https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0?source=aw&awc=6798_1560167507_d710389e1dcf4c021980d4c24c5ddd58&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F
 
 ==============================================================================
 
