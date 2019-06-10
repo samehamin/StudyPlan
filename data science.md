@@ -1,12 +1,13 @@
 # Study Plan
 
-# Math, Probabilities and Statistics
+# Math, 
 
-### Linear Algebra Refresher
-https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+## Mathematics for Machine Learning Specialization
+https://www.coursera.org/specializations/mathematics-machine-learning
 
-### Calculus</br>
-https://www.udacity.com/course/differential-equations-in-action--cs222
+==============================================================================
+
+# Probabilities and Statistics
 
 ### Statistics with R Specialization
 https://www.coursera.org/specializations/statistics
