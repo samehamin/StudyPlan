@@ -14,7 +14,7 @@ https://www.coursera.org/specializations/statistics
 
 ==============================================================================
 
-# Machine Learning (Choose one of the following)
+# Machine Learning
 
 ## Machine Learning Specialization
 https://www.coursera.org/specializations/machine-learning
