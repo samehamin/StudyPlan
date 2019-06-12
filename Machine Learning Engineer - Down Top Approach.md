@@ -9,8 +9,14 @@ https://www.coursera.org/specializations/mathematics-machine-learning
 
 # Probabilities and Statistics
 
-### Statistics with R Specialization
+## Statistics with R Specialization
 https://www.coursera.org/specializations/statistics
+
+==============================================================================
+
+# Introduction to Data Science
+## Data Science at Scale
+https://www.coursera.org/specializations/data-science
 
 ==============================================================================
 
