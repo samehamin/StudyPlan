@@ -29,37 +29,21 @@ https://www.coursera.org/specializations/machine-learning
 
 # Deep Learning
 
-### Deep Learning Specialization
+## Deep Learning Specialization
 https://www.coursera.org/specializations/deep-learning
 
-### Advanced Machine Learning Specialization
-https://www.coursera.org/specializations/aml?
+==============================================================================
+
+# Machine Learning at Scale
+## Machine Learning With Big Data
+https://www.coursera.org/learn/big-data-machine-learning
 
 ==============================================================================
 
-# Big Data
-## The Ultimate Hands-On Hadoop - Tame your Big Data!
-https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-1TNFSwQhli4asl97K_e9SQ&LSNPUBID=SAyYsTvLiGQ
+# Cloud Machine Learning
 
-## Big Data Specialization
-https://www.coursera.org/specializations/big-data
-
-==============================================================================
-
-# Cloud
-
-## Machine Learning with TensorFlow on Google Cloud Platform Specialization
-https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
-
-## Advanced Data Science with IBM Specialization
-https://www.coursera.org/specializations/advanced-data-science-ibm
-
-==============================================================================
-
-# Robotics
-
-## Robotics Specialization
-https://www.coursera.org/specializations/robotics
+## Azure - Microsoft Professional Program in Data Science
+https://www.edx.org/microsoft-professional-program-data-science
 
 ==============================================================================
 
