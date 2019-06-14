@@ -8,8 +8,12 @@ https://www.coursera.org/specializations/big-data
 ## Big Data Applications: Real-Time Streaming
 https://www.coursera.org/learn/real-time-streaming-big-data?specialization=big-data-engineering
 
+
 # SQL / NoSQL
-Check for a course if it's not covered above.
+
+## SQL for Data Science
+https://www.coursera.org/learn/sql-for-data-science
+
 
 # Data Warehousing / ETL
 
@@ -17,9 +21,11 @@ Check for a course if it's not covered above.
 ## Data Science Specialization 
 https://www.coursera.org/specializations/jhu-data-science
 
+
 # Machine Learning Practical
 ## Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
+
 
 # Data Mining 
 ### (Graph analysis, social media analytics, basket analysis, ....) more applications
