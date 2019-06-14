@@ -20,10 +20,16 @@ https://www.coursera.org/specializations/data-science
 
 ==============================================================================
 
+# SQL / NoSQL
+## SQL for Data Science
+https://www.coursera.org/learn/sql-for-data-science
+
+==============================================================================
+
 # Machine Learning
 
-## Machine Learning Specialization
-https://www.coursera.org/specializations/machine-learning
+## Machine Learning by Columbia University
+https://www.edx.org/course/machine-learning-1
 
 ==============================================================================
 
