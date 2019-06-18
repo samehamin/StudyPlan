@@ -21,6 +21,8 @@ https://www.coursera.org/learn/sql-for-data-science
 ## Data Science Specialization 
 https://www.coursera.org/specializations/jhu-data-science
 
+## Data Visualization
+## Tableau course
 
 # Machine Learning Practical
 ## Applied Data Science with Python Specialization
