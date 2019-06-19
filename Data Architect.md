@@ -35,3 +35,6 @@ https://www.coursera.org/specializations/data-science-python
 # DevOps (Dockers, CD, CI, for python and R)
 
 # Cloud (ML / DL / Visualization and analysis)
+### Azure Big data / Data lake
+
+### Azure ML 
