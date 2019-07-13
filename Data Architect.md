@@ -9,13 +9,13 @@ https://www.coursera.org/specializations/big-data
 https://www.coursera.org/learn/real-time-streaming-big-data?specialization=big-data-engineering
 
 
-# SQL / NoSQL
+## SQL / NoSQL
 
-## SQL for Data Science
+### SQL for Data Science
 https://www.coursera.org/learn/sql-for-data-science
 
 
-# Data Warehousing / ETL
+## Data Warehousing / ETL
 
 ## Big data on cloud
 ### Azure Big data / Data lake
