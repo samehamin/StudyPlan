@@ -39,6 +39,7 @@ https://www.coursera.org/specializations/data-science-python
 
 # Cloud (ML / DL / Visualization and analysis)
 ### Azure Big data / Data lake
+https://academy.microsoft.com/en-us/tracks/big-data/
 
 ### Azure AI and Data Science
 
