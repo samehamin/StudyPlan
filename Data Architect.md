@@ -42,6 +42,7 @@ https://www.coursera.org/specializations/data-science-python
 https://academy.microsoft.com/en-us/tracks/big-data/
 
 ### Azure AI and Data Science
+https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
 ### AWS Big data
 
