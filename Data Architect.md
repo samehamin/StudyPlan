@@ -1,3 +1,5 @@
+# Update all path to include only company certifications
+
 # Architecture Design
 
 # Big Data
