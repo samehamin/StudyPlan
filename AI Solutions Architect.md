@@ -1,28 +1,21 @@
-# Professional certificates
 # Masters
 
 # Architecture Design
 TOGAF
 Zachman
 
-
 # Big Data
+https://www.coursera.org/specializations/big-data
 
-## Azure Big Data Certificate
-https://www.edx.org/microsoft-professional-program-big-data
-
-## AWS Big Data Certificate
-
+# Data Science
+https://www.coursera.org/specializations/jhu-data-science
 
 # Artificial Intelligence
+## Machine Learning
+https://www.coursera.org/learn/machine-learning
 
-## Azure Artificial Intelligence
-https://www.edx.org/microsoft-professional-program-artificial-intelligence
-
-## AWS AI
-
+## Deep Learning
+https://www.coursera.org/specializations/deep-learning?
+https://www.coursera.org/specializations/aml
 
 # DevOps (Dockers, CD, CI, for python and R)
-
-## Azure DevOps
-https://www.edx.org/microsoft-professional-program-devops
