@@ -10,6 +10,8 @@ https://www.coursera.org/specializations/big-data
 # DevOps (Dockers, CD, CI, for python and R)
 
 # Cloud
+Azure Paas is priority
+AWS Paas
 
 # Data Science
 https://www.coursera.org/specializations/jhu-data-science
