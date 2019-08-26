@@ -1,4 +1,4 @@
-Following the same order is very recommended.
+## Following the same order is very recommended.
 
 # Architecture Design
 TOGAF
