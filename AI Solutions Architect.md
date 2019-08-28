@@ -1,7 +1,7 @@
 ## Following the same order is very recommended.
 
 # Architecture Design
-TOGAF Or Zachman certification (check best of udemy)
+TOGAF Or Zachman certification (check best of udemy) - for now i can count on my practical experience.
 
 # Big Data
 https://www.coursera.org/specializations/big-data
