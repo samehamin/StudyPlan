@@ -7,6 +7,13 @@ TOGAF Or Zachman certification (check best of udemy) - for now i can count on my
 https://www.coursera.org/specializations/big-data
 
 # DevOps (Dockers, CD, CI)
+### Azure Devops
+https://docs.microsoft.com/en-us/azure/devops-project/ <br/>
+https://www.youtube.com/watch?v=MOZMw5_fBFA
+
+### AWS Devops
+https://aws.amazon.com/getting-started/use-cases/devops/  <br/>
+https://aws.amazon.com/devops/
 
 # Cloud
 ### Azure Big Data
