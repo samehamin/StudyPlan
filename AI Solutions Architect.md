@@ -9,10 +9,17 @@ https://www.coursera.org/specializations/big-data
 # DevOps (Dockers, CD, CI, for python and R)
 
 # Cloud
-Azure Big Data
-Azure ML
-AWS Big Data
-AWS ML
+### Azure Big Data
+
+### Azure ML
+https://www.youtube.com/watch?v=LQEyK4POowk&t=39s <br/>
+https://www.youtube.com/watch?v=GBDSBInvz08 <br/>
+https://www.youtube.com/watch?v=nNHSlpJMOJs <br/>
+https://docs.microsoft.com/en-us/azure/machine-learning/  <br/>
+
+### AWS Big Data
+
+### AWS ML
 
 # Data Science
 https://www.coursera.org/specializations/jhu-data-science
