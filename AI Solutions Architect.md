@@ -10,6 +10,7 @@ https://www.coursera.org/specializations/big-data
 
 # Cloud
 ### Azure Big Data
+https://docs.microsoft.com/en-us/azure/hdinsight/ <br/>
 
 ### Azure ML
 https://www.youtube.com/watch?v=LQEyK4POowk&t=39s <br/>
@@ -18,8 +19,12 @@ https://www.youtube.com/watch?v=nNHSlpJMOJs <br/>
 https://docs.microsoft.com/en-us/azure/machine-learning/  <br/>
 
 ### AWS Big Data
+https://aws.amazon.com/big-data/getting-started/tutorials/
 
 ### AWS ML
+https://aws.amazon.com/getting-started/tutorials/build-train-deploy-machine-learning-model-sagemaker/ <br/>
+https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html <br/>
+https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
 
 # Data Science
 https://www.coursera.org/specializations/jhu-data-science
