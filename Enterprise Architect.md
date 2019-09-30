@@ -1,5 +1,17 @@
 ## Following the same order is very recommended.
 
+# (In parallel steps / along the way)
+=====================================
+## Architecture Design
+TOGAF Or Zachman certification (check best of udemy) - for now i can count on my practical experience. </br>
+https://www.udemy.com/course/togaf-enterprise-architect/  </br>
+https://www.udemy.com/course/togaf-part2/
+
+## Masters
+Artificial Intelligence Masters
+====================================================================
+
+
 # Big Data
 https://www.coursera.org/specializations/big-data
 
@@ -40,13 +52,3 @@ https://www.coursera.org/learn/machine-learning
 ## Deep Learning
 https://www.coursera.org/specializations/deep-learning?
 https://www.coursera.org/specializations/aml
-
-
-# Architecture Design
-TOGAF Or Zachman certification (check best of udemy) - for now i can count on my practical experience. </br>
-https://www.udemy.com/course/togaf-enterprise-architect/  </br>
-https://www.udemy.com/course/togaf-part2/
-
-
-# Masters
-Artificial Intelligence Masters
