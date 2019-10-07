@@ -42,13 +42,16 @@ https://aws.amazon.com/getting-started/tutorials/build-train-deploy-machine-lear
 https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html <br/>
 https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
 
+### Google ML
+### Google Big Data
+
+
 # Data Science
 https://www.coursera.org/specializations/jhu-data-science
 
 # Artificial Intelligence
 ## Machine Learning
-https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/specializations/data-science-python?
 
 ## Deep Learning
 https://www.coursera.org/specializations/deep-learning?
-https://www.coursera.org/specializations/aml
