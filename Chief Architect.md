@@ -12,7 +12,7 @@ Artificial Intelligence Masters
 ====================================================================
 
 
-# Big Data
+# Big Data                                            ------------- In Progress -------------
 https://www.coursera.org/specializations/big-data
 
 # DevOps (Dockers, CD, CI)
