@@ -50,8 +50,14 @@ https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-usi
 https://www.coursera.org/specializations/jhu-data-science
 
 # Artificial Intelligence
-## Machine Learning
+## Machine Learning - I already completed Machine Learning A-Z, and i think it's sufficient and no need for this course again.
 https://www.coursera.org/specializations/data-science-python?
 
 ## Deep Learning
 https://www.coursera.org/specializations/deep-learning?
+
+
+# IOT
+## 
+
+# Blockchain
