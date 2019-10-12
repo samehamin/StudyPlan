@@ -10,7 +10,8 @@ https://www.coursera.org/specializations/mathematics-machine-learning
 https://www.coursera.org/specializations/statistics
 
 ==============================================================================
-<span style="color:orange;">Word up</span>
+<p style='color:red'>This is some red text.</p>
+
 # <color='green'> Machine Learning Basics - In Progress </color>
 https://www.coursera.org/learn/machine-learning?
 
