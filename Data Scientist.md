@@ -3,16 +3,15 @@
 # Math & Statistics and Probabilities
 ### I already covered most of it during my College and CS Master, if you covered it, go directly to Machine learning section
 
-## Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA) -- Done through the college 
+## <i> Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA) -- Done through the college 
 https://www.coursera.org/specializations/mathematics-machine-learning
 
 ## Statistics with R Specialization
 https://www.coursera.org/specializations/statistics
-
+</i>
 ==============================================================================
-<p style='color:red'>This is some red text.</p>
 
-# <color='green'> Machine Learning Basics - In Progress </color>
+# Machine Learning Basics - In Progress
 https://www.coursera.org/learn/machine-learning?
 
 ==============================================================================
