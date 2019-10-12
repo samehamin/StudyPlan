@@ -1,6 +1,7 @@
 # Study Plan
 
-# Math & Statistics and Probabilities, I already covered most of it during my College and CS Master, if you covered it, go directly to Machine learning section
+# Math & Statistics and Probabilities
+### I already covered most of it during my College and CS Master, if you covered it, go directly to Machine learning section
 
 ## Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA) -- Done through the college 
 https://www.coursera.org/specializations/mathematics-machine-learning
@@ -10,7 +11,7 @@ https://www.coursera.org/specializations/statistics
 
 ==============================================================================
 
-# Machine Learning Basics - In Progress
+# <color='green'> Machine Learning Basics - In Progress </color>
 https://www.coursera.org/learn/machine-learning?
 
 ==============================================================================
