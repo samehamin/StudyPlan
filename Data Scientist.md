@@ -11,7 +11,7 @@ https://www.coursera.org/specializations/statistics
 </i>
 ==============================================================================
 
-# Machine Learning Basics =========================== In Progress ===========================
+# Machine Learning Basics ======= In Progress =======
 <b> https://www.coursera.org/learn/machine-learning? </b> 
 
 ==============================================================================
@@ -21,7 +21,7 @@ https://www.coursera.org/specializations/statistics
 ## Machine Learning by Mitchigan University - Done through Machine Learning A-Z
 https://www.coursera.org/specializations/data-science-python
 
-## Deep Learning Specialization - Introduction =========================== In Progress ===========================
+## Deep Learning Specialization - Introduction ======= In Progress =======
 <b> https://www.coursera.org/specializations/deep-learning </b> 
 
 ## Advanced Machine Learning Specialization - Advanced
@@ -33,7 +33,7 @@ https://www.fast.ai/
 ==============================================================================
 
 # Big Data
-## Big Data Specialization =========================== In Progress ===========================
+## Big Data Specialization ======= In Progress =======
 <b> https://www.coursera.org/specializations/big-data </b> 
 
 ==============================================================================
