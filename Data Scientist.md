@@ -12,7 +12,7 @@ https://www.coursera.org/specializations/statistics
 ==============================================================================
 
 # Machine Learning Basics - In Progress
-https://www.coursera.org/learn/machine-learning?
+<b> https://www.coursera.org/learn/machine-learning? </b> 
 
 ==============================================================================
 
@@ -22,7 +22,7 @@ https://www.coursera.org/learn/machine-learning?
 https://www.coursera.org/specializations/data-science-python
 
 ## Deep Learning Specialization - Introduction   -   In Progress
-https://www.coursera.org/specializations/deep-learning
+<b> https://www.coursera.org/specializations/deep-learning </b> 
 
 ## Advanced Machine Learning Specialization - Advanced
 https://www.coursera.org/specializations/aml?
@@ -34,7 +34,7 @@ https://www.fast.ai/
 
 # Big Data
 ## Big Data Specialization
-https://www.coursera.org/specializations/big-data
+<b> https://www.coursera.org/specializations/big-data </b> 
 
 ==============================================================================
 
