@@ -11,7 +11,7 @@ https://www.coursera.org/specializations/statistics
 </i>
 ==============================================================================
 
-# Machine Learning Basics
+# Machine Learning Basics - Will start it after completing the deep learning spec
 <b> https://www.coursera.org/learn/machine-learning? </b> 
 
 ==============================================================================
