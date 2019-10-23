@@ -11,7 +11,7 @@ https://www.coursera.org/specializations/statistics
 </i>
 ==============================================================================
 
-# Machine Learning Basics ======= In Progress =======
+# Machine Learning Basics
 <b> https://www.coursera.org/learn/machine-learning? </b> 
 
 ==============================================================================
