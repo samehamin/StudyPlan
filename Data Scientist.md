@@ -33,7 +33,7 @@ https://www.fast.ai/
 ==============================================================================
 
 # Big Data
-## Big Data Specialization ======= In Progress =======
+## Big Data Specialization 
 <b> https://www.coursera.org/specializations/big-data </b> 
 
 ==============================================================================
