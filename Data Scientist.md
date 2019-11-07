@@ -39,9 +39,14 @@ https://www.fast.ai/
 ==============================================================================
 
 # Data Science & Machine Learning with R
-
 ## Data Science Spec 
 https://www.coursera.org/specializations/jhu-data-science
+
+==============================================================================
+
+# Data Visualizations
+## Power BI
+
 
 ==============================================================================
 
