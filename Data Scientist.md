@@ -15,26 +15,23 @@ https://www.coursera.org/specializations/statistics
 
 # Level 1
 
+## Big Data Specialization ======= In Progress =======
+<b> https://www.coursera.org/specializations/big-data </b> 
+
 ## Machine Learning Basics - Will start it after completing the deep learning spec
 <b> https://www.coursera.org/learn/machine-learning? </b> 
 
 ## Machine Learning by Mitchigan University - Done through Machine Learning A-Z
 https://www.coursera.org/specializations/data-science-python
 
-## Deep Learning Specialization - Introduction ======= In Progress =======
+## Deep Learning Specialization - Introduction
 <b> https://www.coursera.org/specializations/deep-learning </b> 
-
-## Big Data Specialization 
-<b> https://www.coursera.org/specializations/big-data </b> 
 
 ==============================================================================
 
 # Level 2
 
 ## Hands on machine learning book
-
-## Data Science Spec 
-https://www.coursera.org/specializations/jhu-data-science
 
 ## Advanced Machine Learning Specialization - Advanced
 https://www.coursera.org/specializations/aml?
@@ -44,12 +41,14 @@ https://www.fast.ai/
 
 ==============================================================================
 
-# Data Visualizations
+# Level 3
+
+## Data Science Spec 
+https://www.coursera.org/specializations/jhu-data-science
 
 ## Power BI / Tableau
 
 ==============================================================================
-
 
 # Books
 Review my Goodreads books section on
