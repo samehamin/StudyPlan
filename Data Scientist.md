@@ -1,18 +1,5 @@
 # Study Plan
 
-# Math & Statistics and Probabilities
-
-### I already covered most of it during my College and CS Master, if you covered it, go directly to Machine learning section
-
-## <i> Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA) -- Done through the college 
-https://www.coursera.org/specializations/mathematics-machine-learning
-
-## Statistics with R Specialization
-https://www.coursera.org/specializations/statistics
-</i>
-
-==============================================================================
-
 # Level 1
 
 ## Big Data Specialization ======= In Progress =======
@@ -47,6 +34,17 @@ https://www.fast.ai/
 https://www.coursera.org/specializations/jhu-data-science
 
 ## Power BI / Tableau
+
+# Math & Statistics and Probabilities
+
+### I already covered most of it during my College and CS Master, if you covered it, go directly to Machine learning section
+
+## <i> Mathematics for Machine Learning Specialization (Linear Algebra, Calculus, PCA) -- Done through the college 
+https://www.coursera.org/specializations/mathematics-machine-learning
+
+## Statistics with R Specialization
+https://www.coursera.org/specializations/statistics
+</i>
 
 ==============================================================================
 
