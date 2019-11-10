@@ -19,6 +19,7 @@ https://www.coursera.org/specializations/data-science-python
 # Level 2
 
 ## Hands on machine learning book
+https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
 ## Advanced Machine Learning Specialization - Advanced
 https://www.coursera.org/specializations/aml?
