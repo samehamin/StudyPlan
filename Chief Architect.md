@@ -14,20 +14,20 @@ Artificial Intelligence Masters
 # Big Data                                            ------------- In Progress -------------
 https://www.coursera.org/specializations/big-data
 
-# Cloud  (Is it better to take AWS solution architect track or Data track?)
-### AWS ML
-https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/
-https://aws.amazon.com/certification/certified-machine-learning-specialty/
-
-### AWS Big Data
-https://aws.amazon.com/certification/certified-big-data-specialty/
-
 ### Azure ML
 
 ### Azure Big Data
 
 ### Google ML
 ### Google Big Data
+
+# Cloud
+### AWS ML
+https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/
+https://aws.amazon.com/certification/certified-machine-learning-specialty/
+
+### AWS Big Data
+https://aws.amazon.com/certification/certified-big-data-specialty/
 
 # DevOps (Dockers, CD, CI)
 ### Azure Devops
