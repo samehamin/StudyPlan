@@ -2,10 +2,10 @@
 
 # Level 1
 
-## Machine Learning Basics - Will start it after completing the deep learning spec
+## Machine Learning Basics
 <b> https://www.coursera.org/learn/machine-learning? </b> 
 
-## Machine Learning by Mitchigan University - Done through Machine Learning A-Z
+## Machine Learning by Mitchigan University
 https://www.coursera.org/specializations/data-science-python
 
 ## Deep Learning Specialization - Introduction
