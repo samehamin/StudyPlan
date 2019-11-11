@@ -2,9 +2,6 @@
 
 # Level 1
 
-## Big Data Specialization ======= In Progress =======
-<b> https://www.coursera.org/specializations/big-data </b> 
-
 ## Machine Learning Basics - Will start it after completing the deep learning spec
 <b> https://www.coursera.org/learn/machine-learning? </b> 
 
@@ -21,11 +18,11 @@ https://www.coursera.org/specializations/data-science-python
 ## Hands on machine learning book
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
-## Advanced Machine Learning Specialization - Advanced
-https://www.coursera.org/specializations/aml?
-
 ## Fast.ai
 https://www.fast.ai/
+
+## Advanced Machine Learning Specialization - Advanced
+https://www.coursera.org/specializations/aml?
 
 ==============================================================================
 
@@ -35,6 +32,9 @@ https://www.fast.ai/
 https://www.coursera.org/specializations/jhu-data-science
 
 ## Power BI / Tableau
+
+## Big Data Specialization ======= In Progress =======
+<b> https://www.coursera.org/specializations/big-data </b> 
 
 # Math & Statistics and Probabilities
 
