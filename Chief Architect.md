@@ -14,14 +14,16 @@ Artificial Intelligence Masters
 # Big Data                                            ------------- In Progress -------------
 https://www.coursera.org/specializations/big-data
 
+# Cloud
+
 ### Azure ML
 
 ### Azure Big Data
 
 ### Google ML
+
 ### Google Big Data
 
-# Cloud
 ### AWS ML
 https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/
 https://aws.amazon.com/certification/certified-machine-learning-specialty/
