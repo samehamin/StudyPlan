@@ -21,6 +21,10 @@ https://www.coursera.org/specializations/big-data
 
 # Cloud Certificates
 
+### The Linux Foundation
+Introduction to Cloud Infrastructure Technologies <br/>
+https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies
+
 ### Azure ML
 
 ### Azure Big Data
