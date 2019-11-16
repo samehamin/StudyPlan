@@ -4,7 +4,7 @@
 ====================================================================
 
 # Architecture Certificate or Equivalent experience
-TOGAF Or Zachman certification (check best of udemy) - for now i can count on my practical experience. </br>
+TOGAF Or Zachman certification (check best of udemy) </br>
 https://www.udemy.com/course/togaf-enterprise-architect/  </br>
 https://www.udemy.com/course/togaf-part2/
 
@@ -31,7 +31,10 @@ https://www.edx.org/course/introduction-to-cloud-foundry-and-cloud-native-sof?fb
 
 # Artificial Intelligence & Data Science
 
-# Data Science
+### Big Data Specialization
+https://www.coursera.org/specializations/big-data
+
+### Data Science
 https://www.coursera.org/specializations/jhu-data-science
 
 ====================================================================
