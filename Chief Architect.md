@@ -1,21 +1,12 @@
-## Following the same order is very recommended.
-
 # Masters
-
-### Artificial Intelligence Masters
+### AI Masters
+### MBA
 ====================================================================
 
-# (In parallel steps / along the way)
-
-## Architecture Certificate
+# Architecture Certificate or Equivalent experience
 TOGAF Or Zachman certification (check best of udemy) - for now i can count on my practical experience. </br>
 https://www.udemy.com/course/togaf-enterprise-architect/  </br>
 https://www.udemy.com/course/togaf-part2/
-
-====================================================================
-
-# Big Data                                            ------------- In Progress -------------
-https://www.coursera.org/specializations/big-data
 
 ====================================================================
 
@@ -23,44 +14,22 @@ https://www.coursera.org/specializations/big-data
 
 ### The Linux Foundation
 Introduction to Cloud Infrastructure Technologies <br/>
-https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies
+https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies <br/>
 
-### Azure ML
+https://www.edx.org/course/introduction-to-cloud-foundry-and-cloud-native-sof?fbclid=IwAR06zaZFprhAkunM8-ywLQb7VNvdEO__Kzs3eIumbegW71q4DewPnCo6eFg
 
-### Azure Big Data
+### Azure
 
-### Google ML
-
-### Google Big Data
-
-### AWS ML
-https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/
-https://aws.amazon.com/certification/certified-machine-learning-specialty/
-
-### AWS Big Data
-https://aws.amazon.com/certification/certified-big-data-specialty/
+### AWS
 
 ====================================================================
 
 # DevOps (Dockers, CD, CI)
-### Azure Devops
-https://docs.microsoft.com/en-us/azure/devops-project/ <br/>
-https://www.youtube.com/watch?v=MOZMw5_fBFA
-
-### AWS Devops
-https://aws.amazon.com/getting-started/use-cases/devops/  <br/>
-https://aws.amazon.com/devops/
+### Check the linux foundation
 
 ====================================================================
 
-# Artificial Intelligence
-## Machine Learning - I already completed Machine Learning A-Z, and i think it's sufficient and no need for this course again.
-https://www.coursera.org/specializations/data-science-python?
-
-## Deep Learning
-https://www.coursera.org/specializations/deep-learning?
-
-====================================================================
+# Artificial Intelligence & Data Science
 
 # Data Science
 https://www.coursera.org/specializations/jhu-data-science
