@@ -36,7 +36,7 @@ https://www.coursera.org/specializations/jhu-data-science
 
 ## Power BI / Tableau
 
-## Big Data Specialization ======= In Progress =======
+## Big Data Specialization
 https://www.coursera.org/specializations/big-data
 
 ==============================================================================
