@@ -3,14 +3,14 @@
 ### MBA
 ====================================================================
 
-# Architecture Certificate or Equivalent experience
+# Enterprise Architecture
 TOGAF Or Zachman certification (check best of udemy) </br>
 https://www.udemy.com/course/togaf-enterprise-architect/  </br>
 https://www.udemy.com/course/togaf-part2/
 
 ====================================================================
 
-# Cloud Certificates
+# Cloud Architecture
 
 ### The Linux Foundation
 Introduction to Cloud Infrastructure Technologies <br/>
