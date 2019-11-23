@@ -15,11 +15,8 @@ https://www.goodreads.com/review/list/56428791
 # Curriculum
 
 # Part 1 - Math & Statistics and Probabilities
-## Linear Algebra
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-
-## Calculus
-https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
+## Mathematics for machine learning
+https://www.coursera.org/specializations/mathematics-machine-learning
 
 ## Probabilities and Statistics
 https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
@@ -48,8 +45,11 @@ https://www.fast.ai/
 
 
 # Part 4 - Nice to have and extra courses
-## Mathematics for machine learning
-https://www.coursera.org/specializations/mathematics-machine-learning
+## Linear Algebra
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+## Calculus
+https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
 
 ## Machine Learning
 https://www.coursera.org/learn/machine-learning
