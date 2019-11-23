@@ -29,8 +29,8 @@ https://www.edx.org/course/algorithm-design-and-analysis
 ## Python for Everybody Specialization
 https://www.coursera.org/specializations/python
 
-## Intro to Machine Learning
-https://www.udacity.com/course/intro-to-machine-learning--ud120
+## Machine Learning
+https://www.coursera.org/learn/machine-learning
 
 ## Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
@@ -51,6 +51,5 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ## Calculus
 https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
 
-## Machine Learning
-https://www.coursera.org/learn/machine-learning
-
+## Intro to Machine Learning
+https://www.udacity.com/course/intro-to-machine-learning--ud120
