@@ -1,56 +1,42 @@
 # Study Plan
 
-# Level 1 - Machine learning (Theory and practice)
+# Level 1 - Math & Statistics and Probabilities
 
-## Machine Learning Basics
-https://www.coursera.org/learn/machine-learning?
+## Linear Algebra
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
-## Machine Learning by Mitchigan University
-https://www.coursera.org/specializations/data-science-python
+## Calculus
+https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
 
-## Hands on machine learning book
-https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+## Probabilities and Statistics
+https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
 
-==============================================================================
+## Algorithms Design and Analysis
+https://www.edx.org/course/algorithm-design-and-analysis
 
-# Level 2 - Deep Learning
+## Projects
+Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
+
+
+# Level 2 - Machine learning
+
+## Intro to Machine Learning
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+
+## Projects
+Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
+
+
+# Level 3 - Deep Learning
 
 ## Deep Learning Specialization - Introduction
 https://www.coursera.org/specializations/deep-learning
 
-## Advanced Machine Learning Specialization - Advanced
-https://www.coursera.org/specializations/aml?
-
-## Deep Learning with Python
-https://www.manning.com/books/deep-learning-with-python
-
 ## Fast.ai
 https://www.fast.ai/
 
-==============================================================================
-
-# Level 3 - Data Science & Big Data
-
-## Data Science Spec 
-https://www.coursera.org/specializations/jhu-data-science
-
-## Power BI / Tableau
-
-## Big Data Specialization
-https://www.coursera.org/specializations/big-data
-
-==============================================================================
-
-# Level 4 - Math & Statistics and Probabilities
-
-## Think Stats
-http://greenteapress.com/thinkstats/
-
-## Think Bayes
-https://greenteapress.com/wp/think-bayes/
-
-##  An Introduction to Statistical Learning
-http://faculty.marshall.usc.edu/gareth-james/ISL/
+## Projects
+Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
 
 ==============================================================================
 
