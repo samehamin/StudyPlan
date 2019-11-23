@@ -1,7 +1,18 @@
-# Study Plan
+# Rules
+## Projects
+Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
 
-# Level 1 - Math & Statistics and Probabilities
+## Studying
+- 2 - 3 Hours per day
+- Commit with the plan, don't distract your self
 
+## More Books
+https://www.goodreads.com/review/list/56428791
+
+
+# Curriculum
+
+# Part 1 - Math & Statistics and Probabilities
 ## Linear Algebra
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
@@ -14,32 +25,30 @@ https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
 ## Algorithms Design and Analysis
 https://www.edx.org/course/algorithm-design-and-analysis
 
-## Projects
-Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
 
-
-# Level 2 - Machine learning
+# Part 2 - Machine learning
+## Python for Everybody Specialization
+https://www.coursera.org/specializations/python
 
 ## Intro to Machine Learning
 https://www.udacity.com/course/intro-to-machine-learning--ud120
 
-## Projects
-Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
+## Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python
 
 
-# Level 3 - Deep Learning
-
+# Part 3 - Deep Learning
 ## Deep Learning Specialization - Introduction
 https://www.coursera.org/specializations/deep-learning
 
 ## Fast.ai
 https://www.fast.ai/
 
-## Projects
-Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
 
-==============================================================================
+# Part 4 - Nice to have and extra courses
+## Mathematics for machine learning
+https://www.coursera.org/specializations/mathematics-machine-learning
 
-# My Books
-Review my Goodreads books section on
-https://www.goodreads.com/review/list/56428791
+## Machine Learning
+https://www.coursera.org/learn/machine-learning
+
