@@ -8,7 +8,7 @@
 
 # Part 1: Mathematics
 
-## Linear algebra - Khan Academy
+## Linear Algebra - Khan Academy
 https://www.khanacademy.org/math/linear-algebra
 
 ## Calculus
@@ -19,13 +19,10 @@ https://www.khanacademy.org/math/multivariable-calculus
 
 ## Statistics and Probabilities
 ### Stanford Probabilities and Statistics refresher
-https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics#introduction
+https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
 
-### Intro to Descriptive Statistics
-https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
-
-### Intro to Inferential Statistics
-https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+### Intro to Statistics
+https://www.udacity.com/course/intro-to-statistics--st101
 
 
 # Part 2 - Machine learning
