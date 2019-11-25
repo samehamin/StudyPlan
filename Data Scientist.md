@@ -12,39 +12,34 @@
 https://www.khanacademy.org/math/linear-algebra
 
 ## Calculus
-### Stanford review
-https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
 ### Multivariat Calculus - Khan Academy
 https://www.khanacademy.org/math/multivariable-calculus
 
 ## Statistics and Probabilities
-### Stanford Probabilities and Statistics refresher
-https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
-
-### Intro to Statistics
-https://www.udacity.com/course/intro-to-statistics--st101
+### Statistics and probability - Khan Academy
+https://www.khanacademy.org/math/statistics-probability
 
 
 # Part 2 - Machine learning
+
+## Machine Learning - Stanford
+https://www.coursera.org/learn/machine-learning
+
 ## Python for Everybody Specialization
 https://www.coursera.org/specializations/python
 
-## Intro to Machine Learning
-https://www.udacity.com/course/intro-to-machine-learning--ud120
-
-## Applied Data Science with Python Specialization
-https://www.coursera.org/specializations/data-science-python
-
-
-# Part 3 - Deep Learning
 ## Deep Learning Specialization - Introduction
 https://www.coursera.org/specializations/deep-learning
 
 
+# Part 3 - Data Science
+## Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python
+
+
 # Part 4 - Software Engineering for Machine Learning
 ## AI Ops, CI / CD 
-## Structured machine learning project
-## How to implement AI in your organization
+## How to implement AI in your organization - Product management
 
 
 # Part 5 - Advanced Machine Learning
