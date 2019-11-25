@@ -11,7 +11,7 @@
 ## Linear algebra - Khan Academy
 https://www.khanacademy.org/math/linear-algebra
 
-## Calculus - Khan Academy
+## Calculus
 ### Stanford review
 https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
 ### Multivariat Calculus - Khan Academy
