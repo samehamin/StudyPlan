@@ -1,13 +1,7 @@
 # Rules
-
-## Studying
 - Finish the courses in order
 - 2 - 3 Hours per day
 - Commit with the plan, don't distract your self
-
-## More Books
-https://www.goodreads.com/review/list/56428791
-
 
 # Curriculum
 
@@ -71,3 +65,5 @@ https://www.kaggle.com
 ## Linear Algebra
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
+## More Books
+https://www.goodreads.com/review/list/56428791
