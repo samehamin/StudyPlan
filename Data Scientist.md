@@ -8,20 +8,14 @@
 
 # Part 1: Mathematics
 
-## Linear Algebra
-### Linear Algebra Refresher Course
-https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+## Linear algebra - Khan Academy
+https://www.khanacademy.org/math/linear-algebra
 
-## Calculus
-
-### Stanford Linear Algebra and Calculus refresher
+## Calculus - Khan Academy
+### Stanford review
 https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
-
-### Mathematics for Machine Learning: Multivariate Calculus
-https://www.coursera.org/learn/multivariate-calculus-machine-learning
-
-### Calculus youtube channel
-https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
+### Multivariat Calculus - Khan Academy
+https://www.khanacademy.org/math/multivariable-calculus
 
 ## Statistics and Probabilities
 ### Stanford Probabilities and Statistics refresher
@@ -68,10 +62,6 @@ https://www.coursera.org/specializations/aml
 Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
 https://www.youtube.com/watch?v=Cr6VqTRO1v0
 https://www.kaggle.com
-
-# Nice to have and extra courses
-## Linear Algebra
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 ## More Books
 https://www.goodreads.com/review/list/56428791
