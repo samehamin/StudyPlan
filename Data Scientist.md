@@ -5,6 +5,7 @@
 
 # Curriculum
 
+
 # Part 1: Mathematics
 
 ## Linear Algebra
@@ -12,7 +13,14 @@
 https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
 ## Calculus
-### Calculus
+
+### Stanford Linear Algebra and Calculus refresher
+https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
+
+### Mathematics for Machine Learning: Multivariate Calculus
+https://www.coursera.org/learn/multivariate-calculus-machine-learning
+
+### Calculus youtube channel
 https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
 
 ## Statistics and Probabilities
