@@ -32,8 +32,8 @@ https://www.khanacademy.org/math/statistics-probability
 ## Machine Learning - Stanford
 https://www.coursera.org/learn/machine-learning
 
-## Python for Everybody Specialization
-https://www.coursera.org/specializations/python
+## Python for for Data Science & AI - IBM
+https://www.coursera.org/learn/python-for-applied-data-science-ai
 
 ## Deep Learning Specialization - Introduction
 https://www.coursera.org/specializations/deep-learning
