@@ -15,15 +15,13 @@ https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
 ## Linear Algebra - Khan Academy
 https://www.khanacademy.org/math/linear-algebra
 
-## Calculus
-### Multivariat Calculus - Khan Academy
+## Multivariat Calculus - Khan Academy
 https://www.khanacademy.org/math/multivariable-calculus
 
 ## Stanford - Probabilities and Statistics refresher
 https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
 
-## Statistics and Probabilities
-### Statistics and probability - Khan Academy
+## Statistics and probability - Khan Academy
 https://www.khanacademy.org/math/statistics-probability
 
 
