@@ -41,6 +41,9 @@ https://www.coursera.org/specializations/deep-learning
 ## Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
 
+## Machine Learning With Big Data
+https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
+
 
 # Part 4 - Software Engineering for Machine Learning
 ## AI Ops, CI / CD 
