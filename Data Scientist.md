@@ -27,11 +27,11 @@ https://www.khanacademy.org/math/statistics-probability
 
 # Part 2 - Machine learning
 
-## Machine Learning - Stanford
-https://www.coursera.org/learn/machine-learning
-
 ## Python for for Data Science & AI - IBM
 https://www.coursera.org/learn/python-for-applied-data-science-ai
+
+## Machine Learning Fundamentals - San Diego
+https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE220x+3T2019/course/
 
 ## Deep Learning Specialization - Introduction
 https://www.coursera.org/specializations/deep-learning
