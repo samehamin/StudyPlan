@@ -34,14 +34,17 @@ https://www.edx.org/course/introduction-to-cloud-foundry-and-cloud-native-sof?fb
 ### Big Data Specialization
 https://www.coursera.org/specializations/big-data
 
-### Applied Data Science with Python Specialization
-https://www.coursera.org/specializations/data-science-python
+### AI For Everyone
+https://www.coursera.org/learn/ai-for-everyone
 
 ### Executive Data Science Specialization
 https://www.coursera.org/specializations/executive-data-science
 
-### AI For Everyone
-https://www.coursera.org/learn/ai-for-everyone
+### Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python
+
+### Deep Learning Specialization
+https://www.coursera.org/specializations/deep-learning
 
 ====================================================================
 
