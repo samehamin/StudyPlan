@@ -64,7 +64,7 @@ https://www.coursera.org/specializations/aml
 # Learn by coding
 ## Projects
 Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
-https://www.youtube.com/watch?v=Cr6VqTRO1v0
+https://www.youtube.com/watch?v=Cr6VqTRO1v0 <br/>
 https://www.kaggle.com
 
 ## More Books
