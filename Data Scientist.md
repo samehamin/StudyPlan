@@ -1,3 +1,5 @@
+# Top Down Approach
+
 # Rules
 - Finish the courses in order
 - 2 - 3 Hours per day
@@ -7,8 +9,15 @@
 
 # Curriculum
 
+# Data Science
+## Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python
 
-# Part 1: Mathematics
+## Machine Learning With Big Data
+https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
+
+
+# Mathematics
 
 ## Linear Algebra and Calculus refresher - Stanford
 https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
@@ -26,7 +35,7 @@ https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistic
 https://www.khanacademy.org/math/statistics-probability
 
 
-# Part 2 - Machine learning
+# Machine learning
 
 ## Python for for Data Science & AI - IBM
 https://www.coursera.org/learn/python-for-applied-data-science-ai
@@ -42,20 +51,12 @@ https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE220x+3T2019/course/
 https://www.coursera.org/specializations/deep-learning
 
 
-# Part 3 - Data Science
-## Applied Data Science with Python Specialization
-https://www.coursera.org/specializations/data-science-python
-
-## Machine Learning With Big Data
-https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
-
-
-# Part 4 - Software Engineering for Machine Learning
+# Software Engineering for Machine Learning
 ## AI Ops, CI / CD 
 ## How to implement AI in your organization - Product management
 
 
-# Part 5 - Advanced Machine Learning
+# Advanced Machine Learning
 ## Fast.ai
 https://www.fast.ai/
 ## Advanced Machine Learning Specialization
