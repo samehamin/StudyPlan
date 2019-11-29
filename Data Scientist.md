@@ -2,7 +2,8 @@
 - Finish the courses in order
 - 2 - 3 Hours per day
 - Commit with the plan, don't distract your self
-- Finish a project every week, After part 1 and starting part 2
+- Finish a project every week, using Machine Learning A-Z <br/>
+https://www.udemy.com/course/machinelearning/
 
 # Curriculum
 
