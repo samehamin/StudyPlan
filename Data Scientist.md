@@ -9,63 +9,48 @@
 
 # Curriculum
 
-# Data Science
+
+# Practical hands-on introduction to Data Science, Machine learning and Deep Learning
+
 ## Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
+
+## Practical Deep Learning for Coders, v3
+https://course.fast.ai/
 
 ## Machine Learning With Big Data
 https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
 
 
-# Mathematics
 
-## Linear Algebra and Calculus refresher - Stanford
-https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
+# Machine Learning Foundations: Linear Algebra, Calculus, Statistics and Probabilities
 
-## Linear Algebra - Khan Academy
-https://www.khanacademy.org/math/linear-algebra
+## Mathematics for Machine Learning: Linear Algebra
+https://www.coursera.org/learn/linear-algebra-machine-learning
 
-## Multivariat Calculus - Khan Academy
+## Mathematics for Machine Learning: Multivariate Calculus
 https://www.khanacademy.org/math/multivariable-calculus
 
-## Stanford - Probabilities and Statistics refresher
-https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
-
-## Statistics and probability - Khan Academy
-https://www.khanacademy.org/math/statistics-probability
+## Statistics with R Specialization
+https://www.coursera.org/specializations/statistics
 
 
-# Machine learning
 
-## Python for for Data Science & AI - IBM
-https://www.coursera.org/learn/python-for-applied-data-science-ai
-
-## Machine Learning Basics - Choose only one of the following courses
-### Machine Learning - Stanford
+# Machine Learning Theory and Math behind
+## Machine Learning - Stanford
 https://www.coursera.org/learn/machine-learning
 
-### Machine Learning Fundamentals - San Diego
-https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE220x+3T2019/course/
-
-## Deep Learning Specialization - Introduction
+## Deep Learning Specialization
 https://www.coursera.org/specializations/deep-learning
 
 
-# Software Engineering for Machine Learning
-## AI Ops, CI / CD 
-## How to implement AI in your organization - Product management
-
-
-# Advanced Machine Learning
-## Fast.ai
-https://www.fast.ai/
+# Advanced Machine Learning - Optional but very power course
 ## Advanced Machine Learning Specialization
 https://www.coursera.org/specializations/aml
 
 
-# Learn by coding
-## Projects
-https://www.udemy.com/course/machinelearning/ <br/>
+
+## Hand-on by Projects
 https://www.youtube.com/watch?v=Cr6VqTRO1v0 <br/>
 https://www.kaggle.com
 
