@@ -3,8 +3,8 @@
 ### MBA
 ====================================================================
 
-# Enterprise Architecture
-TOGAF Or Zachman certification (check best of udemy) </br>
+# Enterprise Architecture Certificate
+TOGAF certification </br>
 https://www.udemy.com/course/togaf-enterprise-architect/  </br>
 https://www.udemy.com/course/togaf-part2/
 
@@ -15,9 +15,13 @@ https://www.udemy.com/course/togaf-part2/
 ## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
-### Azure
+### Azure Architect
 
-### AWS
+### Azure Machine learning
+
+### AWS Architect
+
+### AWS Machine learning
 
 ====================================================================
 
