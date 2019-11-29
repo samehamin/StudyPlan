@@ -12,11 +12,8 @@ https://www.udemy.com/course/togaf-part2/
 
 # Cloud Architecture
 
-### The Linux Foundation
-Introduction to Cloud Infrastructure Technologies <br/>
-https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies <br/>
-
-https://www.edx.org/course/introduction-to-cloud-foundry-and-cloud-native-sof?fbclid=IwAR06zaZFprhAkunM8-ywLQb7VNvdEO__Kzs3eIumbegW71q4DewPnCo6eFg
+## Cloud Computing Specialization
+https://www.coursera.org/specializations/cloud-computing
 
 ### Azure
 
