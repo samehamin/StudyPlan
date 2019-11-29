@@ -2,8 +2,8 @@
 - Finish the courses in order
 - 2 - 3 Hours per day
 - Commit with the plan, don't distract your self
-- Finish a project every week, using Machine Learning A-Z <br/>
-https://www.udemy.com/course/machinelearning/
+- Finish a project every week, using Machine Learning A-Z 
+
 
 # Curriculum
 
@@ -64,7 +64,7 @@ https://www.coursera.org/specializations/aml
 
 # Learn by coding
 ## Projects
-Check Kaggle and Siraj channel (learn ML in 3 months), 1 Project every week
+https://www.udemy.com/course/machinelearning/ <br/>
 https://www.youtube.com/watch?v=Cr6VqTRO1v0 <br/>
 https://www.kaggle.com
 
