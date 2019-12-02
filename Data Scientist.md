@@ -53,9 +53,15 @@ https://course.fast.ai/
 https://www.coursera.org/specializations/aml
 
 
+# Complete Data Science Micro-Masters (Choose one of the following)
+## MIT - Statistics and Data Science MicroMasters
+https://www.edx.org/micromasters/mitx-statistics-and-data-science
+
+## UC San Diego - Data Science MicroMasters
+https://www.edx.org/micromasters/uc-san-diegox-data-science
+
 
 ## Hand-on by Projects
-
 https://www.youtube.com/watch?v=Cr6VqTRO1v0 <br/>
 https://www.kaggle.com
 
