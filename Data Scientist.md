@@ -31,8 +31,8 @@ https://www.coursera.org/specializations/executive-data-science
 
 # Machine Learning Foundations: Linear Algebra, Calculus, Statistics and Probabilities
 
-## Linear Algebra - Select one of the following
-### Linear Algebra - Khan Academy
+## Linear Algebra
+### Linear Algebra
 https://www.khanacademy.org/math/linear-algebra
 
 ### Multivariate Calculus
@@ -50,15 +50,12 @@ https://www.coursera.org/learn/machine-learning
 ## Deep Learning Specialization
 https://www.coursera.org/specializations/deep-learning
 
-
-
-# Advanced Machine Learning - Optional but very power course
+# Advanced Machine Learning 
 ## Deep Learning with PyTorch
 https://course.fast.ai/
 
 ## Advanced Machine Learning Specialization
 https://www.coursera.org/specializations/aml
-
 
 
 # Complete Data Science Micro-Masters (Choose one of the following)
