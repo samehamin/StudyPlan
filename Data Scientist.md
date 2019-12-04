@@ -21,6 +21,12 @@ https://www.deeplearning.ai/tensorflow-in-practice/
 ## Machine Learning With Big Data
 https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
 
+## AI For Everyone
+https://www.coursera.org/learn/ai-for-everyone
+
+## Executive Data Science Specialization
+https://www.coursera.org/specializations/executive-data-science
+
 
 
 # Machine Learning Foundations: Linear Algebra, Calculus, Statistics and Probabilities
