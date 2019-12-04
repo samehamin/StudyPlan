@@ -36,17 +36,17 @@ https://www.coursera.org/specializations/cloud-computing
 ### Big Data Specialization
 https://www.coursera.org/specializations/big-data
 
-### AI For Everyone
-https://www.coursera.org/learn/ai-for-everyone
-
-### Executive Data Science Specialization
-https://www.coursera.org/specializations/executive-data-science
-
 ### Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
 
 ### Deep Learning Specialization
 https://www.coursera.org/specializations/deep-learning
+
+### AI For Everyone
+https://www.coursera.org/learn/ai-for-everyone
+
+### Executive Data Science Specialization
+https://www.coursera.org/specializations/executive-data-science
 
 ====================================================================
 
