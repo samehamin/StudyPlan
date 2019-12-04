@@ -4,8 +4,6 @@
 ====================================================================
 
 # Enterprise Architecture Certificate
-TOGAF certification </br>
-eBook: https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html </br>
 https://www.udemy.com/course/togaf-enterprise-architect/  </br>
 https://www.udemy.com/course/togaf-part2/ </br>
 
