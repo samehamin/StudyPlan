@@ -33,14 +33,17 @@ https://www.coursera.org/specializations/cloud-computing
 
 # Artificial Intelligence & Data Science
 
-### Big Data Specialization
-https://www.coursera.org/specializations/big-data
-
-### Applied Data Science with Python Specialization
+## Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
 
-### Deep Learning Specialization
-https://www.coursera.org/specializations/deep-learning
+## Practical Deep Learning - Tensorflow in Practice
+https://www.deeplearning.ai/tensorflow-in-practice/
+
+## Machine Learning With Big Data
+https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
+
+### Big Data Specialization
+https://www.coursera.org/specializations/big-data
 
 ### AI For Everyone
 https://www.coursera.org/learn/ai-for-everyone
