@@ -3,6 +3,14 @@
 ### MBA
 ====================================================================
 
+# Enterprise Architecture Certificate
+TOGAF certification </br>
+eBook: https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html
+https://www.udemy.com/course/togaf-enterprise-architect/  </br>
+https://www.udemy.com/course/togaf-part2/
+
+====================================================================
+
 # Cloud Architecture
 
 ## Cloud Computing Specialization
@@ -15,14 +23,6 @@ https://www.coursera.org/specializations/cloud-computing
 ### AWS Architect
 
 ### AWS Machine learning
-
-====================================================================
-
-# Enterprise Architecture Certificate
-TOGAF certification </br>
-eBook: https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html
-https://www.udemy.com/course/togaf-enterprise-architect/  </br>
-https://www.udemy.com/course/togaf-part2/
 
 ====================================================================
 
