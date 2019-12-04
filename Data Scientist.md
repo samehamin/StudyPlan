@@ -45,12 +45,14 @@ https://www.coursera.org/learn/machine-learning
 https://www.coursera.org/specializations/deep-learning
 
 
+
 # Advanced Machine Learning - Optional but very power course
 ## Deep Learning with PyTorch
 https://course.fast.ai/
 
 ## Advanced Machine Learning Specialization
 https://www.coursera.org/specializations/aml
+
 
 
 # Complete Data Science Micro-Masters (Choose one of the following)
