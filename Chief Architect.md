@@ -17,6 +17,7 @@ https://www.coursera.org/specializations/cloud-computing
 ### Azure Architect Stack for Data Science
 -  Azure Computing, users, ...
 - Power BI
+https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
 - Azure Data Lake
 - Azure machine learning
 - Other Azure data tech
@@ -53,7 +54,9 @@ https://www.coursera.org/specializations/executive-data-science
 ====================================================================
 
 # IOT
-## 
+- Professional Certificate in IoT Analysis
+https://www.edx.org/professional-certificate/microsoft-iot-analysis
+
 
 ====================================================================
 
