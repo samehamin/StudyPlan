@@ -51,21 +51,6 @@ https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 ### Check the linux foundation
 
 ====================================================================
-
-# Artificial Intelligence & Data Science
-
-## Applied Data Science with Python Specialization
-https://www.coursera.org/specializations/data-science-python
-
-## Practical Deep Learning - Tensorflow in Practice
-https://www.deeplearning.ai/tensorflow-in-practice/
-
-## Machine Learning With Big Data
-https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
-
-### Big Data Specialization
-https://www.coursera.org/specializations/big-data
-
 ### AI For Everyone
 https://www.coursera.org/learn/ai-for-everyone
 
