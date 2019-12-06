@@ -67,8 +67,8 @@ https://www.edx.org/micromasters/uc-san-diegox-data-science
 
 
 ## Hand-on by Projects
-https://www.youtube.com/watch?v=Cr6VqTRO1v0 <br/>
-https://www.kaggle.com
+- https://towardsdatascience.com/case-studies/home <br/>
+
 
 ## More Books
 https://www.goodreads.com/review/list/56428791
