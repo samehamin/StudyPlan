@@ -11,14 +11,11 @@ https://www.udemy.com/course/togaf-part2/ </br>
 
 # Cloud Architecture
 
-## Cloud Computing Specialization
-https://www.coursera.org/specializations/cloud-computing
-
-### Azure Architect Stack for Data 
-#### Power BI
+## Azure Architect Stack for Data 
+### Power BI
 https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
 
-#### Azure Big data
+### Azure Big data
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
 https://www.edx.org/course/processing-big-data-with-hadoop-in-azure-hdinsight 
 
@@ -38,12 +35,12 @@ https://www.edx.org/course/delivering-a-data-warehouse-in-the-cloud
 https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 
 
-#### Azure machine learning
+### Azure machine learning
 - Professional Certificate in Artificial Intelligence (AI) <br/>
 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
-
-### AWS Architect
+## Cloud Computing Specialization
+https://www.coursera.org/specializations/cloud-computing
 
 ====================================================================
 
