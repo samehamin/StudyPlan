@@ -14,7 +14,7 @@ https://www.udemy.com/course/togaf-part2/ </br>
 ## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
-### Azure Architect Stack for Data Science
+### Azure Architect Stack for Data 
 #### Power BI
 https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
 
@@ -74,8 +74,8 @@ https://www.coursera.org/specializations/executive-data-science
 
 ====================================================================
 
-# IOT
-- Professional Certificate in IoT Analysis
+# Azure IOT
+- Professional Certificate in IoT Analysis <br/>
 https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
 
