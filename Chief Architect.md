@@ -14,13 +14,14 @@ https://www.udemy.com/course/togaf-part2/ </br>
 ## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
-### Azure Architect
-
-### Azure Machine learning
+### Azure Architect Stack for Data Science
+-  Azure Computing, users, ...
+- Power BI
+- Azure Data Lake
+- Azure machine learning
+- Other Azure data tech
 
 ### AWS Architect
-
-### AWS Machine learning
 
 ====================================================================
 
