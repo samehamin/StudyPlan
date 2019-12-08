@@ -39,8 +39,16 @@ https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 - Professional Certificate in Artificial Intelligence (AI) <br/>
 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
+### AWS same knowledge certs (check if it's already included in the Cloud computing spec)
+
 ## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
+
+====================================================================
+
+# Big Data open source tools
+## Big Data Specialization
+https://www.coursera.org/specializations/big-data
 
 ====================================================================
 
