@@ -5,6 +5,8 @@
 
 # Enterprise Architecture Certificate
 - New for 9.2! Part 1 Foundation Certification Training   </br>
+https://www.udemy.com/course/togaf-part1/
+
 - Search for part 2
 
 ====================================================================
