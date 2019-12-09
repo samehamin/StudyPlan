@@ -1,18 +1,5 @@
-# Masters
-### AI Masters
-### MBA
-====================================================================
 
-# Enterprise Architecture Certificate
-- New for 9.2! Part 1 Foundation Certification Training   </br>
-https://www.udemy.com/course/togaf-part1/
-
-- Search for part 2
-
-====================================================================
-
-# Azure Architect Stack for Data 
-## Azure Big data
+# Cloud Azure Stack 
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
 https://www.edx.org/course/processing-big-data-with-hadoop-in-azure-hdinsight 
 
@@ -31,22 +18,18 @@ https://www.edx.org/course/delivering-a-data-warehouse-in-the-cloud
 - Developing Big Data Solutions with Azure Machine Learning <br/>
 https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 
-
-## Azure machine learning
 - Professional Certificate in Artificial Intelligence (AI) <br/>
 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
+## Power BI
+https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
 
-# AWS Architect Stack for Data 
+
+# AWS Stack (Optional)
 
 
 # Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
-
-
-# Data Analytics
-## Power BI
-https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
 
 
 # Big Data open source tools
