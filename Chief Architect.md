@@ -11,11 +11,6 @@ https://www.udemy.com/course/togaf-part1/
 
 ====================================================================
 
-# Data Analytics
-## Power BI
-https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
-
-
 # Azure Architect Stack for Data 
 ## Azure Big data
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
@@ -37,40 +32,42 @@ https://www.edx.org/course/delivering-a-data-warehouse-in-the-cloud
 https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 
 
-### Azure machine learning
+## Azure machine learning
 - Professional Certificate in Artificial Intelligence (AI) <br/>
 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
-### AWS same knowledge certs (check if it's already included in the Cloud computing spec)
+
+# AWS Architect Stack for Data 
+
 
 # Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
-====================================================================
+
+# Data Analytics
+## Power BI
+https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
+
 
 # Big Data open source tools
 ## Big Data Specialization
 https://www.coursera.org/specializations/big-data
 
-====================================================================
 
 # DevOps (Dockers, CD, CI)
-### Check the linux foundation
+## Check the linux foundation
 
-====================================================================
-### AI For Everyone
+
+## AI For Everyone
 https://www.coursera.org/learn/ai-for-everyone
 
-### Executive Data Science Specialization
+## Executive Data Science Specialization
 https://www.coursera.org/specializations/executive-data-science
 
-====================================================================
 
 # Azure IOT
 - Professional Certificate in IoT Analysis <br/>
 https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
-
-====================================================================
 
 # Blockchain
