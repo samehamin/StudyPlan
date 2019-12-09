@@ -11,13 +11,13 @@ https://www.udemy.com/course/togaf-part1/
 
 ====================================================================
 
-# Cloud Architecture
-
-## Azure Architect Stack for Data 
-### Power BI
+# Data Analytics
+## Power BI
 https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
 
-### Azure Big data
+
+# Azure Architect Stack for Data 
+## Azure Big data
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
 https://www.edx.org/course/processing-big-data-with-hadoop-in-azure-hdinsight 
 
@@ -43,7 +43,7 @@ https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
 ### AWS same knowledge certs (check if it's already included in the Cloud computing spec)
 
-## Cloud Computing Specialization
+# Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
 ====================================================================
