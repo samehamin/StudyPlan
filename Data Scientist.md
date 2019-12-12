@@ -23,12 +23,7 @@ https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
 
 ## Power BI
 https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
-
-## AI For Everyone
 https://www.coursera.org/learn/ai-for-everyone
-
-## Executive Data Science Specialization
-https://www.coursera.org/specializations/executive-data-science
 
 
 
