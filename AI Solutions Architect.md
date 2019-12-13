@@ -1,5 +1,5 @@
-
 # Cloud Azure Stack 
+- Azure Certified
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
 https://www.edx.org/course/processing-big-data-with-hadoop-in-azure-hdinsight 
 
@@ -21,36 +21,31 @@ https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 - Professional Certificate in Artificial Intelligence (AI) <br/>
 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
-## Power BI
-https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
-
-
-# AWS Stack (Optional)
-
-
-# Cloud Computing Specialization
-https://www.coursera.org/specializations/cloud-computing
-
-
-# Big Data open source tools
-## Big Data Specialization
-https://www.coursera.org/specializations/big-data
+# Or AWS Stack (Optional)
+- AWS Certified
+- AWS Machine learning and data stack
 
 
 # DevOps (Dockers, CD, CI)
-## Check the linux foundation
+## Check the linux academy
 
 
+# AI
 ## AI For Everyone
 https://www.coursera.org/learn/ai-for-everyone
 
-## Executive Data Science Specialization
-https://www.coursera.org/specializations/executive-data-science
 
-
-# Azure IOT
-- Professional Certificate in IoT Analysis <br/>
+# IOT
+- Azure Professional Certificate in IoT Analysis <br/>
 https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
 
 # Blockchain
+
+
+# Advanced
+## TOGAF
+## Cloud Computing Specialization
+https://www.coursera.org/specializations/cloud-computing
+## Big Data Specialization
+https://www.coursera.org/specializations/big-data
