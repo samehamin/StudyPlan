@@ -49,6 +49,9 @@ https://www.coursera.org/learn/machine-learning
 https://www.coursera.org/specializations/deep-learning
 
 # Advanced Machine Learning 
+## TensorFlow: Data and Deployment Specialization
+https://www.coursera.org/specializations/tensorflow-data-and-deployment
+
 ## Deep Learning with PyTorch
 https://course.fast.ai/
 
