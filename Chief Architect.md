@@ -21,6 +21,7 @@ https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 - Professional Certificate in Artificial Intelligence (AI) <br/>
 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 
+
 # Or AWS Stack (Optional)
 - AWS Certified
 - AWS Machine learning and data stack
@@ -45,7 +46,9 @@ https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
 # Advanced
 ## TOGAF
+
 ## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
+
 ## Big Data Specialization
 https://www.coursera.org/specializations/big-data
