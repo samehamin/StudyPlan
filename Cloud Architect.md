@@ -4,9 +4,6 @@ https://www.coursera.org/specializations/big-data
 # AI For Everyone
 <s> https://www.coursera.org/learn/ai-for-everyone </s>
 
-# Cloud Computing Specialization
-https://www.coursera.org/specializations/cloud-computing
-
 # Cloud Azure Stack 
 - Azure Certified
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
@@ -37,6 +34,9 @@ https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
 # Azure Blockchain
+
+# Cloud Computing Specialization
+https://www.coursera.org/specializations/cloud-computing
 
 # Or AWS Stack (Optional)
 - AWS Certified
