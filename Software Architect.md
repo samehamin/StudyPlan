@@ -41,3 +41,7 @@ https://www.coursera.org/specializations/cloud-computing
 # Or AWS Stack (Optional)
 - AWS Certified
 - AWS Machine learning and data stack
+
+# UI and javascript
+## React
+https://reactjs.org/tutorial/tutorial.html
