@@ -1,7 +1,16 @@
-# Cloud Computing Specialization
+# Big Data
+- Big Data Specialization
+https://www.coursera.org/specializations/big-data
+
+# AI
+- Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python
+
+# Cloud
+## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
-# Cloud Azure Stack 
+## Cloud Azure Stack 
 - Azure Certified Solutions Architect
 - Azure DevOps (Dockers, CD, CI)
 - Processing Big Data with Hadoop in Azure HDInsight <br/>
@@ -22,10 +31,6 @@ https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
 https://www.edx.org/professional-certificate/microsoft-iot-analysis
 - Azure Blockchain
 
-# AI
-- AI For Everyone
-<s> https://www.coursera.org/learn/ai-for-everyone </s>
-
-# Big Data
-- Big Data Specialization
-https://www.coursera.org/specializations/big-data
+## Programming frameworks
+- React, react native
+- Check the pocket hands-on projects
