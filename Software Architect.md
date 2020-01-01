@@ -4,9 +4,9 @@ https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/
 
 # AI
 - Machine learning A-Z
-https://www.udemy.com/course/machinelearning/
+<s>https://www.udemy.com/course/machinelearning/</s>
 - Deep Learning A-Z
-https://www.udemy.com/course/deeplearning/
+<s>https://www.udemy.com/course/deeplearning/</s>
 
 # Cloud
 ## Cloud Computing Specialization
