@@ -1,11 +1,11 @@
 # Big Data
-- Introduction to Big Data
+- Introduction to Big Data <br/>
 https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/
 
 # AI
-- Machine learning A-Z
+- Machine learning A-Z <br/>
 <s>https://www.udemy.com/course/machinelearning/</s>
-- Deep Learning A-Z
+- Deep Learning A-Z <br/>
 <s>https://www.udemy.com/course/deeplearning/</s>
 
 # Cloud
