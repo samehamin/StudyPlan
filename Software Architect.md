@@ -1,12 +1,10 @@
 # Big Data
-- Introduction to Big Data <br/>
-https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/
+- Big Data Specialization <br/>
+https://www.coursera.org/specializations/big-data
 
 # AI
-- Machine learning A-Z <br/>
-<s>https://www.udemy.com/course/machinelearning/</s>
-- Deep Learning A-Z <br/>
-<s>https://www.udemy.com/course/deeplearning/</s>
+- Applied Data Science with Python Specialization
+https://www.coursera.org/specializations/data-science-python
 
 # Cloud
 ## Cloud Computing Specialization
