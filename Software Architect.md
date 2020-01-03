@@ -3,7 +3,7 @@
 https://www.coursera.org/specializations/big-data
 
 # AI
-- Applied Data Science with Python Specialization
+- Applied Data Science with Python Specialization <br/>
 https://www.coursera.org/specializations/data-science-python
 
 # Cloud
