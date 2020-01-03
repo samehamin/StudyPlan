@@ -53,3 +53,7 @@ https://www.edx.org/professional-certificate/microsoft-iot-analysis
 - Nodejs with visual studio code
 - React, react native with visual studio code
 - Check the pocket hands-on projects
+
+# Certificates
+- TOGAF
+- Data Science Masters
