@@ -56,4 +56,4 @@ https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
 # Certificates
 - TOGAF
-- Data Science Masters
+- Artificial Intelligence Masters
