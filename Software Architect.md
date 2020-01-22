@@ -6,6 +6,9 @@ https://www.coursera.org/specializations/big-data
 - Applied Data Science with Python Specialization <br/>
 https://www.coursera.org/specializations/data-science-python
 
+# Data Warehouse
+- Check google spec
+
 # Cloud
 ## Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
