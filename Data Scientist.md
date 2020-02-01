@@ -29,12 +29,8 @@ https://www.coursera.org/learn/ai-for-everyone
 
 # Machine Learning Foundations: Linear Algebra, Calculus, Statistics and Probabilities
 
-## Linear Algebra
-### Linear Algebra
-https://www.khanacademy.org/math/linear-algebra
-
-### Multivariate Calculus
-https://www.khanacademy.org/math/multivariable-calculus
+## Data Science Math Skills
+https://www.coursera.org/learn/datasciencemathskills
 
 ## Statistics with R Specialization
 https://www.coursera.org/specializations/statistics
