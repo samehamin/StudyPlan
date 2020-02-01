@@ -67,9 +67,13 @@ https://www.edx.org/micromasters/mitx-statistics-and-data-science
 https://www.edx.org/micromasters/uc-san-diegox-data-science
 
 
+# Other resources
 ## Hand-on by Projects
 - https://towardsdatascience.com/case-studies/home <br/>
 
-
 ## More Books
 https://www.goodreads.com/review/list/56428791
+
+## Open source data science masters
+http://datasciencemasters.org/
+
