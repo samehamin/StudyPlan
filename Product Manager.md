@@ -12,5 +12,5 @@ https://www.coursera.org/specializations/business-statistics-analysis
 https://www.coursera.org/specializations/business-analytics
 
 # Data Science
-- Data Science Specialization
+- Data Science Specialization <br/>
 https://www.coursera.org/specializations/jhu-data-science
