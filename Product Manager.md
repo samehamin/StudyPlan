@@ -10,3 +10,7 @@ https://www.coursera.org/specializations/business-statistics-analysis
 
 - Business Analytics Specialization  <br/>
 https://www.coursera.org/specializations/business-analytics
+
+# Data Science
+- Data Science Specialization
+https://www.coursera.org/specializations/jhu-data-science
