@@ -11,8 +11,6 @@ https://www.coursera.org/specializations/business-statistics-analysis
 - Business Analytics Specialization  <br/>
 https://www.coursera.org/specializations/business-analytics
 
-# Data Science
-- Data Science Specialization <br/>
-https://www.coursera.org/specializations/jhu-data-science
+# Product management and Design (Check Linkedin)
 
 # MBA
