@@ -21,13 +21,6 @@ https://www.deeplearning.ai/tensorflow-in-practice/
 ## Machine Learning With Big Data
 https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
 
-## Tableau
-- Data Visualization with Tableau Specialization <br/>
-https://www.coursera.org/specializations/data-visualization
-
-- 
-
-
 
 # Machine Learning Foundations: Linear Algebra, Calculus, Statistics and Probabilities
 
@@ -36,7 +29,6 @@ https://www.coursera.org/learn/datasciencemathskills
 
 ## Statistics with R Specialization
 https://www.coursera.org/specializations/statistics
-
 
 
 # Machine Learning Theory and Math behind
