@@ -1,4 +1,8 @@
 # Business Analytics
+
+- Data Visualization with Tableau Specialization
+https://www.coursera.org/specializations/data-visualization
+
 - Excel to MySQL: Analytic Techniques for Business Specialization (this spec includes Tableau) <br/>
 https://www.coursera.org/specializations/excel-mysql
 
