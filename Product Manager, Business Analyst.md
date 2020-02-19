@@ -3,7 +3,7 @@
 https://www.coursera.org/specializations/jhu-data-science
 
 
-# Data Visualizations
+# Data Visualizations (Optional)
 ## Data Visualization with Tableau Specialization
 https://www.coursera.org/specializations/data-visualization
 
