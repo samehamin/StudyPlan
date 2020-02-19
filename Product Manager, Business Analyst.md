@@ -1,14 +1,13 @@
-# Data Science
-## Data Science Specialization <br/>
-https://www.coursera.org/specializations/jhu-data-science
+Data Analytics for Business
 
 
-# Data Visualizations (Optional)
-## Data Visualization with Tableau Specialization
-https://www.coursera.org/specializations/data-visualization
+# Introduction to Data Science 
+- Data science for executives (John Hopkins)
+- Andrew NG, AI for every one 
+- Google crash course in machine learning
 
 
-# Business Analytics (Choose one or two of the following)
+# Business Analytics (Choose one or two of the following, maybe all!)
 ## Excel to MySQL: Analytic Techniques for Business Specialization (this spec includes Tableau) <br/>
 https://www.coursera.org/specializations/excel-mysql
 
@@ -17,9 +16,6 @@ https://www.coursera.org/specializations/data-analytics-business
 
 ## Business Statistics and Analysis Specialization  <br/>
 https://www.coursera.org/specializations/business-statistics-analysis
-
-## Business Analytics Specialization  <br/>
-https://www.coursera.org/specializations/business-analytics
 
 
 # Product management and Design (Check Linkedin)
