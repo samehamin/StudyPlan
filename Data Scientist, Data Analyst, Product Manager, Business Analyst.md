@@ -1,3 +1,8 @@
+# Data Science
+## Data Science Specialization <br/>
+https://www.coursera.org/specializations/jhu-data-science
+
+
 # Business Analytics (Choose one or two of the following)
 ## Excel to MySQL: Analytic Techniques for Business Specialization (this spec includes Tableau) <br/>
 https://www.coursera.org/specializations/excel-mysql
@@ -18,11 +23,6 @@ https://www.coursera.org/specializations/data-visualization
 
 
 # Product management and Design (Check Linkedin)
-
-
-# Data Science
-## Data Science Specialization <br/>
-https://www.coursera.org/specializations/jhu-data-science
 
 
 # MBA
