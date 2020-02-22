@@ -1,13 +1,11 @@
 Data Analytics for Business
 
 
-# Introduction to Data Science 
-- Data science for executives (John Hopkins)
-- Andrew NG, AI for every one 
-- Google crash course in machine learning
+# Business Analytics (Choose one or more form the following)
 
+## MicroMasters® Program in Marketing Analytics
+https://www.edx.org/micromasters/berkeleyx-marketing-analytics
 
-# Business Analytics (Choose one or two of the following, maybe all!)
 ## Excel to MySQL: Analytic Techniques for Business Specialization (this spec includes Tableau) <br/>
 https://www.coursera.org/specializations/excel-mysql
 
