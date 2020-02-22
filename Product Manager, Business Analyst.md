@@ -15,6 +15,9 @@ https://www.coursera.org/specializations/data-analytics-business
 ## Business Statistics and Analysis Specialization  <br/>
 https://www.coursera.org/specializations/business-statistics-analysis
 
+## Business Analytics Specialization
+https://www.coursera.org/specializations/business-analytics
+
 
 # Product management and Design (Check Linkedin)
 
