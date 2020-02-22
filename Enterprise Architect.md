@@ -1,62 +1,46 @@
-# Big Data
-- Big Data Specialization <br/>
+# TOGAF (In parallel)
+- Search a good book
+
+
+# Big Data (Choose one of the following)
+- Big Data Specialization <br/> 
 https://www.coursera.org/specializations/big-data
 
-# AI
-- Applied Data Science with Python Specialization <br/>
-https://www.coursera.org/specializations/data-science-python
+- MicroMasters® Program in Big Data
+https://www.edx.org/micromasters/adelaidex-big-data
+
 
 # Data Warehouse
-- Check google spec
+- Search for good one
+- Check Mostafa Alaa Course
 
-# Cloud
-## Cloud Computing Specialization
+
+# Cloud (Choose one of the following)
+- Cloud Computing Specialization
 https://www.coursera.org/specializations/cloud-computing
 
-## Cloud Azure Stack 
-### Computing, AIM and Storage, ..
-- Azure Certified Solutions Architect <br/>
+- MicroMasters® Program in Cloud Computing
+https://www.edx.org/micromasters/usmx-umgc-cloud-computing
 
-### CI / CD
-- Azure DevOps (Dockers, CD, CI) <br/>
 
-### Big Data
-- Processing Big Data with Hadoop in Azure HDInsight <br/>
-https://www.edx.org/course/processing-big-data-with-hadoop-in-azure-hdinsight 
+# Data Science (Choose one of the following)
+- MicroMasters® Program in Statistics and Data Science
+https://www.edx.org/micromasters/mitx-statistics-and-data-science
 
-- Implementing Real-Time Analytics with Hadoop in Azure HDInsight <br/>
-https://www.edx.org/course/implementing-real-time-analytics-with-hadoop-in-az
+- MicroMasters® Program in Data Science
+https://www.edx.org/micromasters/uc-san-diegox-data-science
 
-- Orchestrating Big Data with Azure Data Factory <br/>
-https://www.edx.org/course/orchestrating-big-data-with-azure-data-factory
+- Data Science Specialization
+https://www.coursera.org/specializations/jhu-data-science
 
-- Processing Real-Time Data Streams in Azure <br/>
-https://www.edx.org/course/processing-real-time-data-streams-in-azure
 
-- Delivering a Data Warehouse in the Cloud <br/>
-https://www.edx.org/course/delivering-a-data-warehouse-in-the-cloud
+# IOT
+- MicroMasters® Program in Internet of Things (IoT)
+https://www.edx.org/micromasters/curtinx-internet-of-things-iot
 
-- Developing Big Data Solutions with Azure Machine Learning <br/>
-https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
 
-### AI, Machine learning
-- Professional Certificate in Artificial Intelligence (AI) <br/>
-https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
+# AI (Optional)
+- MicroMasters® Program in Artificial Intelligence
+https://www.edx.org/micromasters/columbiax-artificial-intelligence
 
-### IOT
-- Azure Professional Certificate in IoT Analysis <br/>
-https://www.edx.org/professional-certificate/microsoft-iot-analysis
 
-### Blockchain
-- Azure Blockchain
-
-# 5G
-
-# Software Engineering
-- Nodejs with visual studio code
-- React, react native with visual studio code
-- Check the pocket hands-on projects
-
-# Certificates
-- TOGAF
-- Artificial Intelligence Masters
