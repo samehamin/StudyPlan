@@ -34,13 +34,18 @@ https://www.edx.org/micromasters/uc-san-diegox-data-science
 https://www.coursera.org/specializations/jhu-data-science
 
 
+# AI (Optional)
+- MicroMasters® Program in Artificial Intelligence
+https://www.edx.org/micromasters/columbiax-artificial-intelligence
+
+
 # IOT
 - MicroMasters® Program in Internet of Things (IoT)
 https://www.edx.org/micromasters/curtinx-internet-of-things-iot
 
 
-# AI (Optional)
-- MicroMasters® Program in Artificial Intelligence
-https://www.edx.org/micromasters/columbiax-artificial-intelligence
+# Blockchain
+
+
 
 
