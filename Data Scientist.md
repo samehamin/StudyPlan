@@ -5,7 +5,7 @@ http://datasciencemasters.org/
 # Introduction
 
 ## Introduction to Data Science 
-https://www.coursera.org/specializations/data-science
+<s>https://www.coursera.org/specializations/data-science</s>
 
 ## Data Science
 I replaced the Harvard data science course CS 109, with the jhu spec with R <br/>
