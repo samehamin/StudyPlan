@@ -34,9 +34,12 @@ https://www.edx.org/micromasters/uc-san-diegox-data-science
 https://www.coursera.org/specializations/jhu-data-science
 
 
-# AI (Optional)
-- MicroMasters® Program in Artificial Intelligence
-https://www.edx.org/micromasters/columbiax-artificial-intelligence
+# Machine Learning
+- <s> Machine Learning A-Z </s> </br> 
+https://www.udemy.com/course/machinelearning/
+
+- <s> Deep Learning A-Z </s> </br>
+https://www.udemy.com/course/deeplearning/
 
 
 # IOT
