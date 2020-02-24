@@ -5,7 +5,7 @@ http://datasciencemasters.org/
 # Introduction
 
 <s>
-## Introduction to Data Science 
+## Introduction to Data Science  <br/>
 https://www.coursera.org/specializations/data-science</s>
 
 ## Data Science
