@@ -6,9 +6,6 @@
 - Big Data Specialization <br/> 
 https://www.coursera.org/specializations/big-data
 
-- MicroMasters® Program in Big Data
-https://www.edx.org/micromasters/adelaidex-big-data
-
 
 # Data Warehouse
 - Search for good one
