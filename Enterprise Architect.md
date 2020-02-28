@@ -1,6 +1,9 @@
 # TOGAF (In parallel)
 - Search a good book
 
+# Intro to Data
+<s> - Data Science at Scale Specialization </br> 
+https://www.coursera.org/specializations/data-science </s>
 
 # Big Data (Choose one of the following)
 - Big Data Specialization <br/> 
