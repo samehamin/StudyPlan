@@ -1,5 +1,6 @@
 - Skills from Linkedin </br>
   - EA, UML, Sparx, TOGAF, BPMN, ArchiMate, ... 
+  - Enterprise Architecture tool (Alfabet) 
 
 
 
