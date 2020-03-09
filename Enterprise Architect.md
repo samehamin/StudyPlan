@@ -1,3 +1,8 @@
+- Skills from Linkedin </br>
+  - EA, UML, Sparx, TOGAF, BPMN, ArchiMate, ... 
+
+
+
 # TOGAF (In parallel)
 - Search a good book
 
