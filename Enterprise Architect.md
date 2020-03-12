@@ -11,4 +11,6 @@
 - AWS Solutions architect
 - Google Compuing Platform (GCP)
 
-## 
+## Big Data Certification
+
+## Data Science Certification
