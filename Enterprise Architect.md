@@ -1,16 +1,14 @@
 ## Enterprise Architecture 
 - TOGAF Certification
 
+## Cloud Architecture
+- AWS Solutions architect
+- Google Compuing Platform (GCP)
+
 ## Service Management
 - ITIL
 
 ## Project Management
 - PMP Or PRINC
 
-## Cloud Architecture
-- AWS Solutions architect
-- Google Compuing Platform (GCP)
-
-## Big Data Certification
-
-## Data Science Certification
+## MBA 
