@@ -6,6 +6,7 @@
 ## Cloud Architecture
 - AWS Solutions architect
 - Google Compuing Platform (GCP)
+- Microservices Architecture
 
 ## Service Management
 - ITIL
