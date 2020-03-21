@@ -13,6 +13,9 @@ I replaced the Harvard data science course CS 109, with the jhu spec with R <br/
 - Data Science Specialization <br/>
 https://www.coursera.org/specializations/jhu-data-science
 
+- Book (Data Science with Open Source Tools) search for more up to date book
+https://epdf.pub/data-analysis-with-open-source-tools.html
+
 ## Data Science with Open Source Tools Book - search for up to date alternative
 - Data Science with Open Source Tools <br/>
 https://www.goodreads.com/book/show/8360735-data-analysis-with-open-source-tools
