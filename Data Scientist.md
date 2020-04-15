@@ -17,8 +17,5 @@ https://www.coursera.org/specializations/jhu-data-science
   - Data Science with Open Source Tools
   https://www.amazon.com/Data-Analysis-Source-Tools-Hands-ebook/dp/B004FGMTYA/ref=sr_1_1?keywords=Data+Analysis+with+Open+Source+Tools&qid=1584922726&s=books&sr=1-1
   
-  - Data Science from Scratch
-  https://www.amazon.com/dp/1492041130/ref=emc_b_5_i
-
 
 Continue the masters path
