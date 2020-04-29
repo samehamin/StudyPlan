@@ -26,10 +26,19 @@ I replaced the Harvard data science course CS 109 with the following
   - https://www.deeplearning.ai/deep-learning-specialization/
 
 
-# Theory and Math
-- Theory and heavy math: Book: The Elements of Statistical Learning
-  - https://www.amazon.com/-/es/Trevor-Hastie/dp/0387848576/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Elements+of+Statistical+Learning&qid=1587750194&sr=8-1
+# Practical machine learning with math behind (simple math) 
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.)
+  - https://www.ebooks.com/en-ae/book/209779138/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow/géron-aurélien/?src=feed&gclid=CjwKCAjwqJ_1BRBZEiwAv73uwO1lXhH8Sc_e8M5GsVyG0Goq5Mby8nFkcks7kEOLZS4OVV8m1RvEmBoCimwQAvD_BwE
+
+- An Introduction to Statistical Learning
+  - http://faculty.marshall.usc.edu/gareth-james/ISL/
   
+
+# Theory and heavy Math
+- Theory and heavy math: Book: The Elements of Statistical Learning
+  - https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+
+
 
 
 # References
