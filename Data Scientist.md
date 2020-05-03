@@ -1,14 +1,14 @@
 # Introduction
-- Machine Learning A-Z 
+<s>- Machine Learning A-Z  </s>
   - https://www.udemy.com/course/machinelearning/
 
-- Deep Learning A-Z
+<s>- Deep Learning A-Z</s>
   - https://www.udemy.com/course/deeplearning/
 
-- Kaggle Playground Competition: Titanic
+<s>- Kaggle Playground Competition: Titanic</s>
   - https://www.kaggle.com/c/titanic
 
-- Kaggle Playground Competition: Housing Prices
+<s>- Kaggle Playground Competition: Housing Prices</s>
   - https://www.kaggle.com/c/home-data-for-ml-course
 
 
