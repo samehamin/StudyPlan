@@ -29,7 +29,7 @@
   - https://www.coursera.org/specializations/internet-of-things
 
 
-# Data
+# Artificial Intelligence
 - Data Engineering, Big Data, and Machine Learning on GCP Specialization
   - https://www.coursera.org/specializations/gcp-data-machine-learning
 - Getting Started with AWS Machine Learning
