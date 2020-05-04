@@ -3,15 +3,10 @@
 ## Enterprise Architecture 
 - TOGAF Certification
 
-## Cloud Architecture
+## Cloud Architecture (Not nessesary official cert, can do it on Coursera or udemy)
 - AWS Solutions architect
 - Google Compuing Platform (GCP)
 - Microservices Architecture
 
-## Service Management
-- ITIL
-
-## Project Management
-- PMP Or PRINC
-
 ## MBA 
+- I can follow Ihab approach and get mini MBA from Egypt or here.
