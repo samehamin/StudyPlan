@@ -8,6 +8,10 @@
 - I can follow Ihab approach and get mini MBA from Egypt or here.
 
 
+# Digital Transformation
+- https://www.coursera.org/learn/bcg-uva-darden-digital-transformation
+
+
 # Cloud Computing (Not nessesary official cert, can do it on Coursera or udemy)
 - AWS Fundamentals Specialization
   - https://www.coursera.org/specializations/aws-fundamentals
