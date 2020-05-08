@@ -25,12 +25,6 @@
   - http://faculty.marshall.usc.edu/gareth-james/ISL/
 
 
-# Data Mining
-- Book: Mining Massive Data Sets / Stanford 
-  - http://www.mmds.org/
-- Book: Mining The Social Web
-  - https://www.oreilly.com/library/view/mining-the-social/9781491973547/
-
 # Machine Learning
 
 - Theory
@@ -50,16 +44,26 @@
 - Deep Learning Specialization
   - https://www.coursera.org/specializations/deep-learning
 
-# Social Network & Graph Analysis
-- Social Network Analysis for Startups
-  - https://www.amazon.com/gp/product/1449306462/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449306462&linkCode=as2&tag=theopesoudats-20&linkId=IVLUMF67H6BON2PM
 
 # Natural Language Processing
 - NLP with Python (NLTK library)
   - https://www.nltk.org/book/
 - Natural Language Processing with Deep Learning
   - https://web.stanford.edu/class/cs224n/
-  
+
+
+# Social Network & Graph Analysis
+- Social Network Analysis for Startups
+  - https://www.amazon.com/gp/product/1449306462/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449306462&linkCode=as2&tag=theopesoudats-20&linkId=IVLUMF67H6BON2PM
+
+
+# Data Mining
+- Book: Mining Massive Data Sets / Stanford 
+  - http://www.mmds.org/
+- Book: Mining The Social Web
+  - https://www.oreilly.com/library/view/mining-the-social/9781491973547/
+
+
 # Continue from the DS masters page ( Data Analysis)
 
   
