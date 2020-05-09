@@ -1,19 +1,9 @@
-Data Analytics for Business
-
-
-# Business Analytics (Choose one or more form the following)
-
-## MicroMasters® Program in Marketing Analytics
-https://www.edx.org/micromasters/berkeleyx-marketing-analytics
-
+# Introduction to Business Analytics using data
 ## Excel to MySQL: Analytic Techniques for Business Specialization (this spec includes Tableau) <br/>
 https://www.coursera.org/specializations/excel-mysql
 
 ## Advanced Business Analytics Specialization  <br/>
 https://www.coursera.org/specializations/data-analytics-business
-
-## Business Statistics and Analysis Specialization  <br/>
-https://www.coursera.org/specializations/business-statistics-analysis
 
 ## Business Analytics Specialization
 https://www.coursera.org/specializations/business-analytics
