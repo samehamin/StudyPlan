@@ -1,27 +1,16 @@
 # Enterprise Architecture 
-- TOGAF
-  - Enterprise Architecture
-    - https://www.coursera.org/learn/enterprise-architecture
-
-
-# MBA 
-- I can follow Ihab approach and get mini MBA from Egypt or here.
+- Enterprise Architecture
+  - https://www.coursera.org/learn/enterprise-architecture
+- Book: Software Systems Architecture
 
 
 # Digital Transformation
-- https://www.coursera.org/learn/bcg-uva-darden-digital-transformation
+- Search for a good book
 
 
-# Cloud Computing (Not nessesary official cert, can do it on Coursera or udemy)
-- AWS Fundamentals Specialization
-  - https://www.coursera.org/specializations/aws-fundamentals
-- Cloud Architecture with Google Cloud Professional Certificate
-  - https://www.coursera.org/professional-certificates/gcp-cloud-architect
-
-
-# DevOps
-- Getting Started with Google Kubernetes Engine
-  - https://www.coursera.org/learn/google-kubernetes-engine
+# Cloud Computing 
+- Cloud Computing Specialization
+  - https://www.coursera.org/specializations/cloud-computing
 
 
 # Internet of Things Specialization
@@ -30,11 +19,9 @@
 
 
 # Artificial Intelligence
-- Data Engineering, Big Data, and Machine Learning on GCP Specialization
-  - https://www.coursera.org/specializations/gcp-data-machine-learning
-- Getting Started with AWS Machine Learning
-  - https://www.coursera.org/learn/aws-machine-learning
 - Developing AI Applications on Azure
   - https://www.coursera.org/learn/developing-ai-applications-azure
-- Add Data science courses
+
+# Data Science
+- Data Science Spec, John Hopkins
 
