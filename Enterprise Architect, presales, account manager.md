@@ -4,10 +4,6 @@
 - Book: Software Systems Architecture
 
 
-# Digital Transformation
-- Search for a good book
-
-
 # Cloud Computing 
 - Cloud Computing Specialization
   - https://www.coursera.org/specializations/cloud-computing
