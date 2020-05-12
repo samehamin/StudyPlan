@@ -1,7 +1,5 @@
 # Enterprise Architecture 
-- Enterprise Architecture
-  - https://www.coursera.org/learn/enterprise-architecture
-- Book: Software Systems Architecture
+https://www.goodreads.com/book/show/223932.Software_Systems_Architecture
 
 # Cloud Computing 
 - Cloud Computing Specialization
