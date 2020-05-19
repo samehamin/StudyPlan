@@ -2,10 +2,6 @@
 نصيحة لو عايز تبدا في مجال ال
 AI & Machine Learning
 
-0- ابدا بكورس متكامل لعلوم البيانات 
-- Data Science Specialization
-  - https://www.coursera.org/specializations/jhu-data-science
-
 1- انا رايي الشخصي تبدا بكورس اندرو نج علي طول بتاع ستانفورد
 اللي اسمه machine learning
 https://www.coursera.org/learn/machine-learning
