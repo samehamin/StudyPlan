@@ -23,9 +23,8 @@
 
   
 - Study google analytics and big data platform / certification
-
-- From Data to Insights with Google Cloud Platform Specialization
-  - https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform
+  - From Data to Insights with Google Cloud Platform Specialization
+    - https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform
 
 - Great courses of Illinois 
 https://www.coursera.org/browse/data-science/data-analysis?facets=partnerMultiTag%3AUniversity+of+Illinois+at+Urbana-Champaign%2CsubcategoryMultiTag%3Adata-analysis
@@ -50,6 +49,10 @@ https://www.coursera.org/browse/data-science/data-analysis?facets=partnerMultiTa
 
 - Innovation Management
   - https://www.coursera.org/learn/innovation-management
+
+
+# SEO
+https://www.coursera.org/specializations/seo
 
 
 # Product management
