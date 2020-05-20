@@ -1,19 +1,17 @@
 # Enterprise Architecture Development
 https://www.goodreads.com/book/show/223932.Software_Systems_Architecture
 
-# Cloud Computing 
-- Cloud Computing Specialization
-  - https://www.coursera.org/specializations/cloud-computing
+# Cloud Computing Specialization
+https://www.coursera.org/specializations/cloud-computing
 
 # Big Data
-<s> https://www.coursera.org/specializations/big-data?= </s>
+https://www.coursera.org/specializations/big-data?=
 
-# Data Science
-https://www.coursera.org/specializations/jhu-data-science?
+# Data Science with python
+https://www.coursera.org/specializations/data-science-python
 
 # Internet of Things Specialization
-- Internet of Things Specialization
-  - https://www.coursera.org/specializations/internet-of-things
+https://www.coursera.org/specializations/internet-of-things
 
 # RPA
 https://www.coursera.org/specializations/rpa-cognitive-analytics
