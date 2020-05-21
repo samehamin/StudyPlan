@@ -1,3 +1,10 @@
+# Enterprise Architecture related certifications :
+    - (FEAF) Certified Enterprise Architect (CEA)
+    - Certified Technical Architect (CTA)
+    - ITIL Master IT Service Management
+    - The Open Group Architecture Framework (TOGAF)
+    - Department of Defense Architecture Framework (DODAF)
+
 # Enterprise Architecture Development
 https://www.goodreads.com/book/show/223932.Software_Systems_Architecture
 
