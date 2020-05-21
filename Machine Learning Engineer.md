@@ -7,7 +7,7 @@ https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Scientist+Nanodegree+
 
 
 # Data Science Core (Choose one of the following) 
-### Data Science Specializatoin
+### In progress - Data Science Specializatoin
 https://www.coursera.org/specializations/jhu-data-science
 
 ### UCSanDiegoX's Data Science
