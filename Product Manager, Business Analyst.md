@@ -1,3 +1,7 @@
+# Explore the field
+- Listen to youtube introductions
+- Comtinue the machine learning engineer path
+
 # Business Analytics
 
 - Excel to MySQL: Analytic Techniques for Business Specialization (this spec includes Tableau) <br/>
