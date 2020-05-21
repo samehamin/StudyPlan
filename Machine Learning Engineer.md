@@ -1,59 +1,45 @@
 # Top Down Approach
 
-- Machine Learning
-https://www.coursera.org/learn/machine-learning
-هوا بيشرح اساسيات الماشين ليرننج و في كل محاضرة بيشرح الماث المطلوب فقط لكي تتعلم هذا الالجوريزم أو المحاضرة
-و هوا نفسه قال اكتر من مرة مش لازم مثلا تتعلم كل التفاضل و قال أنا هشرح فقط المطلوب بالضرورة
-لو عايز تتعلم تفاضل دا بحر ممكن تمشي فيه لحد تفاضل و تكامل المستخدم في المركبات الفضائية و علوم الصواريخ
-هوا نفسه قال لو عطلت في حاجة روح شوفها علي ويكيبيديا أو كتاب تفاضل أو احصاء
+- This track is very practical and value
+  - https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412
+- Udacity study plan for Data Scientist nano degree (The best track but expensive)
+https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Scientist+Nanodegree+Syllabus.pdf
 
-- Applied Data science with python
-و بعد الكورس الاول اللي بيشرح كلاسيك ماشين ليرننج نظري
-تدخل علي العملي بايدك بالبيثون فيه تخصص كامل علي كورسيرا اسمه
-https://www.coursera.org/specializations/data-science-python
-بتاع جامعة ميتشجن دا كله عملي و بيطبق علي أمثلة عملي في الكلاسيك ماشين ليرننج لكن بدون ديب ليرننج
 
-- Deep learning
-بعد كدا عايز تتعلم اساسيات الديب ليرننج بالماث الخاصة بها فقط
-برضو عمنا اندرو أن جي عامل تخصص كامل للاساسيات اسمه
+# Data Science Core (Choose one of the following) 
+### Data Science Specializatoin
+https://www.coursera.org/specializations/jhu-data-science
+
+### UCSanDiegoX's Data Science
+https://www.edx.org/micromasters/uc-san-diegox-data-science
+
+### Data Analyst nano degree
+https://www.udacity.com/course/data-analyst-nanodegree--nd002
+
+
+# NoSQL Databases
+### Data Wrangling with MongoDB
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
+
+
+# Machine Learning
+### Machie Learning Stanford
+https://www.class-central.com/mooc/835/coursera-machine-learning
+
+### Deep Learning
 https://www.coursera.org/specializations/deep-learning
-و ميزته أنه بيشرح الأساسيات الرياضية و برضو. بيطبق في نفس التخصص بالبيثون
-#########################
 
-- Hands on machine learning Book .....
-و بعدها اسم طويل كدا .. و دا تحمل او تشتري ال
-2nd edition
-علي طول لأنها نزلت و دا لينك الكتاب
-https://www.oreilly.com/…/hands-on-machine-l…/9781492032632/
+### Machine Learning at Scale (choose one)
+- https://www.udacity.com/course/learn-spark-at-udacity--ud2002
+- https://www.coursera.org/learn/machine-learning-big-data-apache-spark?specialization=ai-engineer
+- https://www.coursera.org/learn/big-data-machine-learning
 
-- Deep learning with python
-و بعدها تروح محلي بكتاب تاني من الراجل اللي اخترع كيرس اسمه
-Francois Chollet
-عامل كتاب متخصص في الديب ليرننج فقط اسمه
-https://www.manning.com/books/deep-learning-with-python
 
-#########################
+# Back End Development
+### Developing Scalable Apps in Python (Google/Udacity)
+https://www.youtube.com/playlist?list=PLjFABstnDbZQvoXpLfprPyf-3QI1N_TXa
 
-الاختيار التاني
-لا يا عم انا مش بتاع كتب .. انا بتاع سندوتشات 😃 اقصد كورسات زي مانا و عايز ازود نفسي في كورسات متقدمة في الماشين ليرننج
-عليك يتخصص جميل من جامعة روسية اسمه
-Advanced Machine Learning
-https://www.coursera.org/specializations/aml
 
-بس هما بيحذروا تشرب الكورس دا علي الريق لانه تقيل جدا 😄
-و لازم تكون مخلص كورسين اندرو الاول - دا من وجهة نظري برضو
-###############
-الاختيار التالت من وجهة نظري و مش عيب
-انا لا بتاع كتب يا معلم و لا فيديوهات
-انا بتاع تطبيق عملي .. اديني في ال
-IDE
-و أطبق use cases و كود علي طول
-و دا فيه بوست مثبت هنا في الجروب
-بشمهندس Ahmed Zareef حاطط ليسته طويلة بكمية مشاريع تطبق فيها بايدك علي طول
-https://m.facebook.com/groups/1596832580575937?view=permalink&id=1743865549205972
-#########################
-
-دول ال ٣ اختيارات من وجهة نظري و لو حبيت تستفيض في كتب الرياضيات و المودلنج و السميوليشن و الاحصاء و الاحتمالات دول موجودين كتير و مصادر محترمة جدا
-
-بالتوفيق
-
+# Management
+### Building a Data Science Team
+https://www.coursera.org/learn/build-data-science-team
