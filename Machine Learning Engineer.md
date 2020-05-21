@@ -10,12 +10,6 @@ https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Scientist+Nanodegree+
 ### In progress - Data Science Specializatoin
 https://www.coursera.org/specializations/jhu-data-science
 
-### UCSanDiegoX's Data Science
-https://www.edx.org/micromasters/uc-san-diegox-data-science
-
-### Data Analyst nano degree
-https://www.udacity.com/course/data-analyst-nanodegree--nd002
-
 
 # NoSQL Databases
 ### Data Wrangling with MongoDB
