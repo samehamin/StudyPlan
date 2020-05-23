@@ -30,11 +30,17 @@ https://www.coursera.org/specializations/deep-learning
 
 
 # Back End Development 
-### Developing Scalable Apps in Python (Google/Udacity)
-https://www.youtube.com/playlist?list=PLjFABstnDbZQvoXpLfprPyf-3QI1N_TXa
+### Developing Scalable Apps in Python Azure
+- https://azure.microsoft.com/en-us/develop/python/
+- https://docs.microsoft.com/en-us/azure/developer/python/
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app
+- https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-app-service-on-linux-01
+- https://docs.microsoft.com/en-us/azure/developer/python/tutorial-vs-code-serverless-python-01
+
 
 ### Building Containerized Applications on Azure
-Search for a good book
+- https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-containers-01
+- Search for a good book
 
 
 # Management
