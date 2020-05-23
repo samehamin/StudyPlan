@@ -40,3 +40,7 @@ Search for a good book
 # Management
 ### Building a Data Science Team
 https://www.coursera.org/learn/build-data-science-team
+
+
+# Continue data science track
+https://github.com/samehamin/StudyPlan/blob/master/Data%20Scientist.md
