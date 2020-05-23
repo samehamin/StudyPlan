@@ -38,9 +38,13 @@ https://www.coursera.org/specializations/deep-learning
 - https://docs.microsoft.com/en-us/azure/developer/python/tutorial-vs-code-serverless-python-01
 
 
+# DevOps
 ### Building Containerized Applications on Azure
 - https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-containers-01
 - Search for a good book
+
+### DevOps on Azure
+- ??
 
 
 # Management
