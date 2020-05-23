@@ -33,8 +33,8 @@ https://www.coursera.org/specializations/deep-learning
 ### Developing Scalable Apps in Python (Google/Udacity)
 https://www.youtube.com/playlist?list=PLjFABstnDbZQvoXpLfprPyf-3QI1N_TXa
 
-### Building Containerized Applications on AWS
-https://www.coursera.org/learn/containerized-apps-on-aws
+### Building Containerized Applications on Azure
+Search for a good book
 
 
 # Management
