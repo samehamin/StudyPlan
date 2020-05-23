@@ -40,14 +40,20 @@ https://www.coursera.org/specializations/deep-learning
 
 # DevOps
 
-### DevOps with Jenkins
-- https://www.jenkins.io/doc/
+### Jenkins CI Pipeline with Python
+- https://medium.com/@Joachim8675309/jenkins-ci-pipeline-with-python-8bf1a0234ec3
+
+### Deploy a python application from GitHub to Azure App Service with Jenkins CI/CD
+https://medium.com/@megasubhash/deploy-a-python-application-from-github-to-azure-app-service-with-jenkins-ci-cd-2751e9cfd6a5
 
 ### Python Flask
 https://medium.com/@itaymelamed/building-a-python-scalable-flask-application-using-docker-compose-and-nginx-load-balancer-10b650e0a1b5
 
 ### Python Kubernetes on google cloud
 https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
+
+### Step by step guide to deploy Python Application using Kubernetes
+https://medium.com/akeo-tech/deploying-python-application-using-kubernetes-f58e2f37fb28
 
 
 # Management
