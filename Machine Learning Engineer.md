@@ -39,12 +39,15 @@ https://www.coursera.org/specializations/deep-learning
 
 
 # DevOps
-### Building Containerized Applications on Azure
-- https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-containers-01
-- Search for a good book
 
-### DevOps on Azure
-- ??
+### DevOps with Jenkins
+- https://www.jenkins.io/doc/
+
+### Python Flask
+https://medium.com/@itaymelamed/building-a-python-scalable-flask-application-using-docker-compose-and-nginx-load-balancer-10b650e0a1b5
+
+### Python Kubernetes on google cloud
+https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
 
 
 # Management
