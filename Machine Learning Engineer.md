@@ -30,16 +30,6 @@ https://www.coursera.org/specializations/deep-learning
 
 
 # Back End Development 
-### Developing Scalable Apps in Python Azure
-- https://azure.microsoft.com/en-us/develop/python/
-- https://docs.microsoft.com/en-us/azure/developer/python/
-- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app
-- https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-app-service-on-linux-01
-- https://docs.microsoft.com/en-us/azure/developer/python/tutorial-vs-code-serverless-python-01
-
-
-# DevOps
-
 ### Jenkins CI Pipeline with Python
 - https://medium.com/@Joachim8675309/jenkins-ci-pipeline-with-python-8bf1a0234ec3
 
