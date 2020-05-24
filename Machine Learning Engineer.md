@@ -10,8 +10,11 @@ https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Scientist+Nanodegree+
 ### In progress - Data Science Specializatoin
 https://www.coursera.org/specializations/jhu-data-science
 
+### A/B Testing
+https://www.udacity.com/course/ab-testing--ud257
 
-# NoSQL Databases
+
+# Data Engineering for data science 
 ### Data Wrangling with MongoDB
 https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 
