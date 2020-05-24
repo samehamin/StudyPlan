@@ -15,6 +15,10 @@ https://www.coursera.org/specializations/jhu-data-science
 ### Data Wrangling with MongoDB
 https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 
+### Data Wrangling with SQL
+- https://www.coursera.org/learn/sql-for-data-science
+- https://www.coursera.org/learn/data-wrangling-analysis-abtesting
+
 
 # Machine Learning
 ### Machie Learning Stanford
@@ -29,9 +33,9 @@ https://www.coursera.org/specializations/deep-learning
 - https://www.coursera.org/learn/big-data-machine-learning
 
 
-# Back End Development 
+# Back End Development (search for books instead)
 ### Jenkins CI Pipeline with Python
-- https://medium.com/@Joachim8675309/jenkins-ci-pipeline-with-python-8bf1a0234ec3
+https://medium.com/@Joachim8675309/jenkins-ci-pipeline-with-python-8bf1a0234ec3
 
 ### Deploy a python application from GitHub to Azure App Service with Jenkins CI/CD
 https://medium.com/@megasubhash/deploy-a-python-application-from-github-to-azure-app-service-with-jenkins-ci-cd-2751e9cfd6a5
