@@ -19,6 +19,8 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 - https://www.coursera.org/learn/sql-for-data-science
 - https://www.coursera.org/learn/data-wrangling-analysis-abtesting
 
+### ETL and ETL pipelines
+
 
 # Machine Learning
 ### Machie Learning Stanford
