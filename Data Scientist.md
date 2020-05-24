@@ -52,6 +52,10 @@
   - https://web.stanford.edu/class/cs224n/
 
 
+# Recommender Systems
+https://www.coursera.org/specializations/recommender-systems
+
+
 # Social Network & Graph Analysis
 - Social Network Analysis for Startups
   - https://www.amazon.com/gp/product/1449306462/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449306462&linkCode=as2&tag=theopesoudats-20&linkId=IVLUMF67H6BON2PM
