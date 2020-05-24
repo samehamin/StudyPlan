@@ -20,6 +20,13 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 - https://www.coursera.org/learn/data-wrangling-analysis-abtesting
 
 ### ETL and ETL pipelines
+- Understand what ETL pipelines are
+- Access and combine data from CSV, JSON, logs, APIs, and      databases
+- Standardize encodings and columns 
+- Normalize data and create dummy variables 
+- Handle outliers, missing values, and duplicated data
+- Engineer new features by running calculations
+- Build a SQLite database to store cleaned data
 
 
 # Machine Learning
