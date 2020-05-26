@@ -45,7 +45,7 @@ https://www.coursera.org/specializations/deep-learning
 - https://www.coursera.org/learn/big-data-machine-learning
 
 
-# Back End Development (search for books instead)
+# Back End Development
 
 ### Build Python scalable Flask applications
 https://classroom.udacity.com/courses/ud858/
