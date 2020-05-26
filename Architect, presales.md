@@ -8,7 +8,7 @@
 # Enterprise Architecture Development
 https://www.goodreads.com/book/show/223932.Software_Systems_Architecture
 
-# Cloud Computing Specialization
+# Cloud Computing
 - Azure track
   - https://www.edx.org/search?partner=Microsoft&tab=course&q=azure
   <p style="color:blue"> (In progress) - Getting Started with Azure App Service: Web Apps </p>
