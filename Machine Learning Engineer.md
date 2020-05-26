@@ -47,14 +47,8 @@ https://www.coursera.org/specializations/deep-learning
 
 # Back End Development (search for books instead)
 
-### Building a Python scalable Flask application using docker-compose and Nginx load balancer
-https://medium.com/@itaymelamed/building-a-python-scalable-flask-application-using-docker-compose-and-nginx-load-balancer-10b650e0a1b5
-
-### Python Kubernetes on google cloud
-https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
-
-### Step by step guide to deploy Python Application using Kubernetes
-https://medium.com/akeo-tech/deploying-python-application-using-kubernetes-f58e2f37fb28
+### Build Python scalable Flask applications
+https://classroom.udacity.com/courses/ud858/
 
 
 # Management
