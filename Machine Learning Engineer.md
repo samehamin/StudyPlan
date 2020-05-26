@@ -46,11 +46,6 @@ https://www.coursera.org/specializations/deep-learning
 
 
 # Back End Development (search for books instead)
-### Jenkins CI Pipeline with Python
-https://medium.com/@Joachim8675309/jenkins-ci-pipeline-with-python-8bf1a0234ec3
-
-### Deploy a python application from GitHub to Azure App Service with Jenkins CI/CD
-https://medium.com/@megasubhash/deploy-a-python-application-from-github-to-azure-app-service-with-jenkins-ci-cd-2751e9cfd6a5
 
 ### Building a Python scalable Flask application using docker-compose and Nginx load balancer
 https://medium.com/@itaymelamed/building-a-python-scalable-flask-application-using-docker-compose-and-nginx-load-balancer-10b650e0a1b5
