@@ -23,6 +23,7 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 - https://www.coursera.org/learn/data-wrangling-analysis-abtesting
 
 ### ETL and ETL pipelines
+- Check data science udemy course for Keril Aramenco
 - Understand what ETL pipelines are
 - Access and combine data from CSV, JSON, logs, APIs, and      databases
 - Standardize encodings and columns 
